@@ -1,0 +1,8420 @@
+{
+  "developments": [
+    {
+      "baseUnitName": "Wing Gundam",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gundam Deathscythe"
+        },
+        {
+          "level": "03",
+          "unitName": "Wing Gundam EW"
+        },
+        {
+          "level": "05",
+          "unitName": "Wing Gundam Proto Zero EW"
+        },
+        {
+          "level": "07",
+          "unitName": "Wing Gundam Zero"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Wing Gundam Zero",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Wing Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Wing Gundam Proto Zero EW"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Epyon"
+        },
+        {
+          "level": "06",
+          "unitName": "Wing Gundam Zero EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Deathscythe",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Wing Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Heavyarms"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Deathscythe EW Rousette"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Deathscythe Hell"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Deathscythe Hell",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Deathscythe"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Heavyarms Custom"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Deathscythe Hell EW"
+        },
+        {
+          "level": "06",
+          "unitName": "Wing Gundam Zero"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Heavyarms",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gundam Deathscythe"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Sandrock"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Heavyarms EW Eagle"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Heavyarms Custom"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Heavyarms Custom",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Heavyarms"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Sandrock Custom"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Heavyarms Custom EW"
+        },
+        {
+          "level": "06",
+          "unitName": "Wing Gundam Zero"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Sandrock",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gundam Heavyarms"
+        },
+        {
+          "level": "03",
+          "unitName": "Shenlong Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Sandrock EW Armadillo"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Sandrock Custom"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Sandrock Custom",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Sandrock"
+        },
+        {
+          "level": "04",
+          "unitName": "Altron Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Sandrock Custom EW"
+        },
+        {
+          "level": "06",
+          "unitName": "Wing Gundam Zero"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Shenlong Gundam",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gundam Sandrock"
+        },
+        {
+          "level": "03",
+          "unitName": "Wing Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Shenlong Gundam EW Liaoya"
+        },
+        {
+          "level": "04",
+          "unitName": "Altron Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Altron Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Shenlong Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Deathscythe Hell"
+        },
+        {
+          "level": "05",
+          "unitName": "Altron Gundam EW"
+        },
+        {
+          "level": "06",
+          "unitName": "Wing Gundam Zero"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Maganac",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Leo Ground Type"
+        },
+        {
+          "level": "03",
+          "unitName": "Tragos"
+        },
+        {
+          "level": "03",
+          "unitName": "Aries"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Sandrock"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tallgeese",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo Ground Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Leo Space Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Tallgeese F"
+        },
+        {
+          "level": "06",
+          "unitName": "Tallgeese II"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tallgeese II",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Tallgeese"
+        },
+        {
+          "level": "04",
+          "unitName": "Tallgeese F"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Epyon"
+        },
+        {
+          "level": "06",
+          "unitName": "Tallgeese III"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Leo Ground Type",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Leo Space Type"
+        },
+        {
+          "level": "03",
+          "unitName": "Leo Ground Type (OZ)"
+        },
+        {
+          "level": "03",
+          "unitName": "Leo Ground Type Shoulder-Mounted Cannon"
+        },
+        {
+          "level": "03",
+          "unitName": "Aries"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Leo Ground Type Shoulder-Mounted Cannon",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Leo Ground Type"
+        },
+        {
+          "level": "03",
+          "unitName": "Leo Ground Type (OZ)"
+        },
+        {
+          "level": "03",
+          "unitName": "Tragos"
+        },
+        {
+          "level": "04",
+          "unitName": "Maganac"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Leo Space Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo EWAC Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Leo Ground Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Leo Space Type (OZ)"
+        },
+        {
+          "level": "04",
+          "unitName": "Leo Space Type MO-V"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Leo Ground Type (OZ)",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Tragos"
+        },
+        {
+          "level": "03",
+          "unitName": "Leo Space Type (OZ)"
+        },
+        {
+          "level": "03",
+          "unitName": "Aries (OZ)"
+        },
+        {
+          "level": "10",
+          "unitName": "Tallgeese"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Leo Space Type (OZ)",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Leo Ground Type (OZ)"
+        },
+        {
+          "level": "03",
+          "unitName": "Leo (OZ Prize)"
+        },
+        {
+          "level": "05",
+          "unitName": "Taurus"
+        },
+        {
+          "level": "11",
+          "unitName": "Tallgeese"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tragos",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Leo Ground Type (OZ)"
+        },
+        {
+          "level": "03",
+          "unitName": "Leo Ground Type Shoulder-Mounted Cannon"
+        },
+        {
+          "level": "03",
+          "unitName": "Aries"
+        },
+        {
+          "level": "04",
+          "unitName": "Maganac"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Aries",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Leo Ground Type"
+        },
+        {
+          "level": "03",
+          "unitName": "Tragos"
+        },
+        {
+          "level": "03",
+          "unitName": "Aries (OZ)"
+        },
+        {
+          "level": "04",
+          "unitName": "Maganac"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Aries (OZ)",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Leo Ground Type (OZ)"
+        },
+        {
+          "level": "03",
+          "unitName": "Tragos"
+        },
+        {
+          "level": "03",
+          "unitName": "Aries"
+        },
+        {
+          "level": "04",
+          "unitName": "Taurus"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Taurus",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo Space Type (OZ)"
+        },
+        {
+          "level": "04",
+          "unitName": "Taurus (Sanc Kingdom)"
+        },
+        {
+          "level": "04",
+          "unitName": "Taurus (White Fang)"
+        },
+        {
+          "level": "06",
+          "unitName": "Virgo"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Taurus (Sanc Kingdom)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Taurus"
+        },
+        {
+          "level": "04",
+          "unitName": "Taurus (White Fang)"
+        },
+        {
+          "level": "06",
+          "unitName": "Virgo"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Taurus (White Fang)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Taurus"
+        },
+        {
+          "level": "06",
+          "unitName": "Virgo"
+        },
+        {
+          "level": "07",
+          "unitName": "Virgo II"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Vayeate",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Virgo"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Heavyarms"
+        },
+        {
+          "level": "04",
+          "unitName": "Mercurius"
+        },
+        {
+          "level": "05",
+          "unitName": "Vayeate Suivant"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Mercurius",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Virgo"
+        },
+        {
+          "level": "04",
+          "unitName": "Wing Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Vayeate"
+        },
+        {
+          "level": "05",
+          "unitName": "Mercurius Suivant"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Virgo",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Taurus"
+        },
+        {
+          "level": "04",
+          "unitName": "Virgo II"
+        },
+        {
+          "level": "06",
+          "unitName": "Serpent"
+        },
+        {
+          "level": "08",
+          "unitName": "Scorpio"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Virgo II",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Taurus"
+        },
+        {
+          "level": "04",
+          "unitName": "Virgo"
+        },
+        {
+          "level": "05",
+          "unitName": "Serpent"
+        },
+        {
+          "level": "07",
+          "unitName": "Scorpio"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Epyon",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Hydra Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Wing Gundam Zero"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Aquarius"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Epyon EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Geminass 01",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo Space Type MO-V"
+        },
+        {
+          "level": "04",
+          "unitName": "Geminass 02"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Geminass 01"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam L.O. Booster"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Geminass 01",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Geminass 01"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Geminass 02"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam L.O. Booster"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Griepe"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Geminass 02",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo Space Type MO-V"
+        },
+        {
+          "level": "04",
+          "unitName": "Geminass 01"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Geminass 02"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Aesculapius"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Geminass 02",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Geminass 02"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Geminass 01"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Aesculapius"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Burnlapius"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam L.O. Booster",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Geminass 01"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Geminass 01"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Geminass 02"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Griepe"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Griepe",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Geminass 01"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Geminass 02"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam L.O. Booster"
+        },
+        {
+          "level": "06",
+          "unitName": "Hydra Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Aesculapius",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Geminass 02"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Geminass 01"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Geminass 02"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Burnlapius"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Leo Space Type MO-V",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Leo Space Type"
+        },
+        {
+          "level": "03",
+          "unitName": "D-UNIT"
+        },
+        {
+          "level": "05",
+          "unitName": "Taurus"
+        },
+        {
+          "level": "09",
+          "unitName": "Geminass 01"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "D-UNIT",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo Space Type MO-V"
+        },
+        {
+          "level": "04",
+          "unitName": "Taurus"
+        },
+        {
+          "level": "06",
+          "unitName": "Virgo"
+        },
+        {
+          "level": "09",
+          "unitName": "Geminass 01"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Leo-S",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo (OZ Prize)"
+        },
+        {
+          "level": "04",
+          "unitName": "Taurus (OZ Prize)"
+        },
+        {
+          "level": "05",
+          "unitName": "Leo-R"
+        },
+        {
+          "level": "05",
+          "unitName": "Leo-N"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Leo-R",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo (OZ Prize)"
+        },
+        {
+          "level": "04",
+          "unitName": "Taurus (OZ Prize)"
+        },
+        {
+          "level": "05",
+          "unitName": "Leo-N"
+        },
+        {
+          "level": "05",
+          "unitName": "Leo-S"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Leo-N",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo (OZ Prize)"
+        },
+        {
+          "level": "04",
+          "unitName": "Taurus (OZ Prize)"
+        },
+        {
+          "level": "05",
+          "unitName": "Leo-R"
+        },
+        {
+          "level": "05",
+          "unitName": "Leo-S"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Leo EWAC Type",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Leo Space Type"
+        },
+        {
+          "level": "03",
+          "unitName": "Leo Space Type (OZ)"
+        },
+        {
+          "level": "03",
+          "unitName": "Leo (OZ Prize)"
+        },
+        {
+          "level": "05",
+          "unitName": "Taurus"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Leo (OZ Prize)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo EWAC Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Leo Space Type (OZ)"
+        },
+        {
+          "level": "05",
+          "unitName": "Taurus (OZ Prize)"
+        },
+        {
+          "level": "07",
+          "unitName": "Leo-R"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Taurus (OZ Prize)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo (OZ Prize)"
+        },
+        {
+          "level": "04",
+          "unitName": "Taurus"
+        },
+        {
+          "level": "05",
+          "unitName": "Leo-R"
+        },
+        {
+          "level": "06",
+          "unitName": "Virgo"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Burnlapius",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Leo-R"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Geminass 01"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Geminass 02"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Aesculapius"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Vayeate Suivant",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Virgo II"
+        },
+        {
+          "level": "04",
+          "unitName": "Vayeate"
+        },
+        {
+          "level": "05",
+          "unitName": "Mercurius Suivant"
+        },
+        {
+          "level": "06",
+          "unitName": "Hydra Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Mercurius Suivant",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Virgo II"
+        },
+        {
+          "level": "04",
+          "unitName": "Mercurius"
+        },
+        {
+          "level": "05",
+          "unitName": "Vayeate Suivant"
+        },
+        {
+          "level": "06",
+          "unitName": "Hydra Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hydra Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Vayeate Suivant"
+        },
+        {
+          "level": "02",
+          "unitName": "Mercurius Suivant"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Griepe"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Epyon"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Scorpio",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Taurus"
+        },
+        {
+          "level": "04",
+          "unitName": "Virgo"
+        },
+        {
+          "level": "05",
+          "unitName": "Virgo II"
+        },
+        {
+          "level": "06",
+          "unitName": "Serpent"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Wing Gundam EW",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Wing Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Deathscythe EW Rousette"
+        },
+        {
+          "level": "05",
+          "unitName": "Wing Gundam Proto Zero EW"
+        },
+        {
+          "level": "07",
+          "unitName": "Wing Gundam Zero EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Wing Gundam Proto Zero EW",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Wing Gundam EW"
+        },
+        {
+          "level": "05",
+          "unitName": "Wing Gundam Zero"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Epyon EW"
+        },
+        {
+          "level": "07",
+          "unitName": "Wing Gundam Zero EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Deathscythe EW Rousette",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Deathscythe"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Heavyarms EW Eagle"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Deathscythe Hell"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Deathscythe Hell EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Heavyarms EW Eagle",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Heavyarms"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Sandrock EW Armadillo"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Heavyarms Custom"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Heavyarms Custom EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Sandrock EW Armadillo",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Sandrock"
+        },
+        {
+          "level": "04",
+          "unitName": "Shenlong Gundam EW Liaoya"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Sandrock Custom"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Sandrock Custom EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Shenlong Gundam EW Liaoya",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Shenlong Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Wing Gundam EW"
+        },
+        {
+          "level": "05",
+          "unitName": "Altron Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Altron Gundam EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tallgeese F",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Tallgeese"
+        },
+        {
+          "level": "04",
+          "unitName": "Tallgeese II"
+        },
+        {
+          "level": "05",
+          "unitName": "Tallgeese III"
+        },
+        {
+          "level": "07",
+          "unitName": "Wing Gundam Zero EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Epyon EW",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Epyon"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Aquarius"
+        },
+        {
+          "level": "04",
+          "unitName": "Tallgeese III"
+        },
+        {
+          "level": "05",
+          "unitName": "Wing Gundam Zero EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Wing Gundam Zero EW",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Wing Gundam EW"
+        },
+        {
+          "level": "04",
+          "unitName": "Wing Gundam Proto Zero EW"
+        },
+        {
+          "level": "05",
+          "unitName": "Wing Gundam Zero"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Epyon EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Deathscythe Hell EW",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Deathscythe EW Rousette"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Deathscythe Hell"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Heavyarms Custom EW"
+        },
+        {
+          "level": "06",
+          "unitName": "Wing Gundam Zero EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Heavyarms Custom EW",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Heavyarms EW Eagle"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Heavyarms Custom"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Sandrock Custom EW"
+        },
+        {
+          "level": "06",
+          "unitName": "Wing Gundam Zero EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Sandrock Custom EW",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Sandrock EW Armadillo"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Sandrock Custom"
+        },
+        {
+          "level": "04",
+          "unitName": "Altron Gundam EW"
+        },
+        {
+          "level": "06",
+          "unitName": "Wing Gundam Zero EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Altron Gundam EW",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Shenlong Gundam EW Liaoya"
+        },
+        {
+          "level": "02",
+          "unitName": "Altron Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Deathscythe Hell EW"
+        },
+        {
+          "level": "06",
+          "unitName": "Wing Gundam Zero EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tallgeese III",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Tallgeese"
+        },
+        {
+          "level": "04",
+          "unitName": "Tallgeese F"
+        },
+        {
+          "level": "04",
+          "unitName": "Tallgeese II"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Epyon EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Serpent",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Taurus"
+        },
+        {
+          "level": "04",
+          "unitName": "Virgo II"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Heavyarms"
+        },
+        {
+          "level": "08",
+          "unitName": "Scorpio"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Strike Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Strike Dagger"
+        },
+        {
+          "level": "05",
+          "unitName": "Aegis Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Strike Rouge"
+        },
+        {
+          "level": "06",
+          "unitName": "Perfect Strike Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Perfect Strike Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Strike Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Strike Rouge Ootori"
+        },
+        {
+          "level": "05",
+          "unitName": "Strike Noir"
+        },
+        {
+          "level": "06",
+          "unitName": "Freedom Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Duel Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Duel Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "Buster Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Duel Gundam Assault Shroud"
+        },
+        {
+          "level": "07",
+          "unitName": "Blu Duel"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Duel Gundam Assault Shroud",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Duel Dagger Fortestra"
+        },
+        {
+          "level": "04",
+          "unitName": "Duel Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Blu Duel"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Buster Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Buster Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "Blitz Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Calamity Gundam"
+        },
+        {
+          "level": "07",
+          "unitName": "Verde Buster"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Blitz Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Gold Frame Amatsu (Incomplete)"
+        },
+        {
+          "level": "04",
+          "unitName": "Aegis Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Strike Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Forbidden Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Aegis Gundam",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Blitz Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Duel Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Raider Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Justice Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Calamity Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Buster Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Raider Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Forbidden Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Sword Calamity"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Forbidden Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Blitz Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Raider Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Calamity Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Raider Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Aegis Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Forbidden Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Calamity Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Strike Dagger",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Duel Dagger"
+        },
+        {
+          "level": "03",
+          "unitName": "105 Dagger"
+        },
+        {
+          "level": "03",
+          "unitName": "Buster Dagger"
+        },
+        {
+          "level": "06",
+          "unitName": "Strike Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Moebius Zero",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Moebius Linear Gun"
+        },
+        {
+          "level": "04",
+          "unitName": "Skygrasper"
+        },
+        {
+          "level": "06",
+          "unitName": "Gun Barrel Dagger"
+        },
+        {
+          "level": "07",
+          "unitName": "Exass"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Moebius Linear Gun",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Moebius Nuclear Missile"
+        },
+        {
+          "level": "04",
+          "unitName": "Skygrasper"
+        },
+        {
+          "level": "05",
+          "unitName": "Moebius Zero"
+        },
+        {
+          "level": "11",
+          "unitName": "Zamza-Zah"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Moebius Nuclear Missile",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Moebius Linear Gun"
+        },
+        {
+          "level": "04",
+          "unitName": "Skygrasper"
+        },
+        {
+          "level": "05",
+          "unitName": "Moebius Zero"
+        },
+        {
+          "level": "11",
+          "unitName": "Zamza-Zah"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Skygrasper",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Spearhead"
+        },
+        {
+          "level": "04",
+          "unitName": "Moebius Linear Gun"
+        },
+        {
+          "level": "05",
+          "unitName": "Moebius Zero"
+        },
+        {
+          "level": "09",
+          "unitName": "Strike Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Spearhead",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Combat Helicopter (E.A.)"
+        },
+        {
+          "level": "02",
+          "unitName": "Linear-Gun Tank"
+        },
+        {
+          "level": "05",
+          "unitName": "Moebius Linear Gun"
+        },
+        {
+          "level": "06",
+          "unitName": "Skygrasper"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Combat Helicopter (E.A.)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Combat Helicopter (Orb Forces)"
+        },
+        {
+          "level": "02",
+          "unitName": "Linear-Gun Tank"
+        },
+        {
+          "level": "04",
+          "unitName": "Agile"
+        },
+        {
+          "level": "05",
+          "unitName": "Spearhead"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GINN",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN Heavy Ion Cannon (M69 Barrus Kai)"
+        },
+        {
+          "level": "04",
+          "unitName": "GINN High Maneuver"
+        },
+        {
+          "level": "04",
+          "unitName": "GINN Insurgent Type"
+        },
+        {
+          "level": "05",
+          "unitName": "CGUE"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GINN Heavy Ion Cannon (M69 Barrus Kai)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN"
+        },
+        {
+          "level": "02",
+          "unitName": "GINN D-Type"
+        },
+        {
+          "level": "04",
+          "unitName": "GINN Assault"
+        },
+        {
+          "level": "05",
+          "unitName": "CGUE"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GINN D-Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN"
+        },
+        {
+          "level": "02",
+          "unitName": "GINN Heavy Ion Cannon (M69 Barrus Kai)"
+        },
+        {
+          "level": "04",
+          "unitName": "GINN Assault"
+        },
+        {
+          "level": "05",
+          "unitName": "CGUE"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GINN Long-Range Reconnaissance Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN"
+        },
+        {
+          "level": "04",
+          "unitName": "CGUE"
+        },
+        {
+          "level": "05",
+          "unitName": "DINN"
+        },
+        {
+          "level": "11",
+          "unitName": "Gundam Astray Out Frame D"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "CGUE",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN"
+        },
+        {
+          "level": "04",
+          "unitName": "CGUE Assault"
+        },
+        {
+          "level": "05",
+          "unitName": "DINN"
+        },
+        {
+          "level": "06",
+          "unitName": "GuAIZ"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GuAIZ",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "CGUE"
+        },
+        {
+          "level": "04",
+          "unitName": "DINN"
+        },
+        {
+          "level": "05",
+          "unitName": "GuAIZ R"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "DINN",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN"
+        },
+        {
+          "level": "04",
+          "unitName": "CGUE"
+        },
+        {
+          "level": "05",
+          "unitName": "BABI"
+        },
+        {
+          "level": "06",
+          "unitName": "GuAIZ"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "BuCUE 450mm 2-Barrel Railgun",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "ZuOOT"
+        },
+        {
+          "level": "04",
+          "unitName": "GINN"
+        },
+        {
+          "level": "05",
+          "unitName": "Kerberos BuCUE Hound"
+        },
+        {
+          "level": "07",
+          "unitName": "LaGOWE"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "LaGOWE",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "ZuOOT"
+        },
+        {
+          "level": "04",
+          "unitName": "BuCUE 450mm 2-Barrel Railgun"
+        },
+        {
+          "level": "05",
+          "unitName": "Kerberos BuCUE Hound"
+        },
+        {
+          "level": "07",
+          "unitName": "Gaia Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "ZuOOT",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Linear-Gun Tank"
+        },
+        {
+          "level": "04",
+          "unitName": "Works GINN"
+        },
+        {
+          "level": "04",
+          "unitName": "GAZuOOT"
+        },
+        {
+          "level": "07",
+          "unitName": "BuCUE 450mm 2-Barrel Railgun"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GOOhN",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN"
+        },
+        {
+          "level": "04",
+          "unitName": "ASH"
+        },
+        {
+          "level": "05",
+          "unitName": "ZnO"
+        },
+        {
+          "level": "06",
+          "unitName": "Abyss Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "ZnO",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GOOhN"
+        },
+        {
+          "level": "02",
+          "unitName": "ASH"
+        },
+        {
+          "level": "02",
+          "unitName": "DINN"
+        },
+        {
+          "level": "05",
+          "unitName": "Abyss Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Providence Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Testament Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Chaos Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Impulse Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Legend Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Agile",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Combat Helicopter (E.A.)"
+        },
+        {
+          "level": "02",
+          "unitName": "Combat Helicopter (Orb Forces)"
+        },
+        {
+          "level": "05",
+          "unitName": "ZuOOT"
+        },
+        {
+          "level": "06",
+          "unitName": "Works GINN"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Strike Rouge",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Strike Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Strike Rouge IWSP"
+        },
+        {
+          "level": "05",
+          "unitName": "Strike Rouge Ootori"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "M1 Astray",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "M1A Astray"
+        },
+        {
+          "level": "02",
+          "unitName": "M1 Astray Shrike"
+        },
+        {
+          "level": "04",
+          "unitName": "Civilian Astray DSSD Custom"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Red Frame"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Freedom Gundam",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Testament Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Justice Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Freedom Gundam METEOR"
+        },
+        {
+          "level": "06",
+          "unitName": "Strike Freedom Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Freedom Gundam METEOR",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Freedom Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Justice Gundam METEOR"
+        },
+        {
+          "level": "05",
+          "unitName": "Strike Freedom Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Strike Freedom Gundam METEOR"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Justice Gundam",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Freedom Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Regenerate Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Justice Gundam METEOR"
+        },
+        {
+          "level": "06",
+          "unitName": "Infinite Justice Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Justice Gundam METEOR",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Justice Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Freedom Gundam METEOR"
+        },
+        {
+          "level": "05",
+          "unitName": "Infinite Justice Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Infinite Justice Gundam METEOR"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Combat Helicopter (Orb Forces)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Combat Helicopter (E.A.)"
+        },
+        {
+          "level": "02",
+          "unitName": "Linear-Gun Tank"
+        },
+        {
+          "level": "04",
+          "unitName": "Agile"
+        },
+        {
+          "level": "06",
+          "unitName": "M1 Astray"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Sword Calamity",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Calamity Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Raider Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Forbidden Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "105 Dagger",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Strike Dagger"
+        },
+        {
+          "level": "03",
+          "unitName": "105 Dagger Jet Striker"
+        },
+        {
+          "level": "05",
+          "unitName": "Gun Barrel Dagger"
+        },
+        {
+          "level": "06",
+          "unitName": "Dagger L"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gun Barrel Dagger",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Moebius Zero"
+        },
+        {
+          "level": "03",
+          "unitName": "105 Dagger"
+        },
+        {
+          "level": "05",
+          "unitName": "Dagger L"
+        },
+        {
+          "level": "06",
+          "unitName": "Exass"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Duel Dagger",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Strike Dagger"
+        },
+        {
+          "level": "03",
+          "unitName": "Duel Dagger Fortestra"
+        },
+        {
+          "level": "03",
+          "unitName": "105 Dagger"
+        },
+        {
+          "level": "06",
+          "unitName": "Duel Dagger"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Duel Dagger Fortestra",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Duel Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "105 Dagger"
+        },
+        {
+          "level": "06",
+          "unitName": "Duel Gundam Assault Shroud"
+        },
+        {
+          "level": "08",
+          "unitName": "Blu Duel"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Buster Dagger",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Strike Dagger"
+        },
+        {
+          "level": "03",
+          "unitName": "105 Dagger"
+        },
+        {
+          "level": "06",
+          "unitName": "Buster Gundam"
+        },
+        {
+          "level": "07",
+          "unitName": "Verde Buster"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GINN High Maneuver",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN"
+        },
+        {
+          "level": "04",
+          "unitName": "GINN High Maneuver Type 2"
+        },
+        {
+          "level": "05",
+          "unitName": "CGUE"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "CGUE DEEP Arms",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "CGUE"
+        },
+        {
+          "level": "04",
+          "unitName": "CGUE Assault"
+        },
+        {
+          "level": "04",
+          "unitName": "DINN"
+        },
+        {
+          "level": "05",
+          "unitName": "GuAIZ"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Strike Rouge IWSP",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Strike Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Strike Rouge"
+        },
+        {
+          "level": "05",
+          "unitName": "Strike Rouge Ootori"
+        },
+        {
+          "level": "06",
+          "unitName": "Perfect Strike Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "M1A Astray",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "M1 Astray"
+        },
+        {
+          "level": "02",
+          "unitName": "M1 Astray Shrike"
+        },
+        {
+          "level": "04",
+          "unitName": "Civilian Astray DSSD Custom"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Gold Frame"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Red Frame",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "M1 Astray"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Blue Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Red Frame Flight Unit"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Astray Red Frame \"Powered Red\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Works GINN",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "ZuOOT"
+        },
+        {
+          "level": "04",
+          "unitName": "GINN"
+        },
+        {
+          "level": "04",
+          "unitName": "GOOhN"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Blue Frame",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Gold Frame"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Blue Frame Full Weapon"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Blue Frame Scale System"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Blue Frame Second L"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Blue Frame Second L",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Blue Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Blue Frame Second L Lohengrin Launcher"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Blue Frame Second G Sniper Pack"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Astray Blue Frame Second Revise"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GINN Custom (Elijah)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN"
+        },
+        {
+          "level": "04",
+          "unitName": "GINN Assault"
+        },
+        {
+          "level": "04",
+          "unitName": "GINN High Maneuver"
+        },
+        {
+          "level": "05",
+          "unitName": "CGUE"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Gold Frame",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Red Frame"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Green Frame"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Gold Frame Amatsu (Incomplete)"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Astray Gold Frame Amatsu"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Gold Frame Amatsu",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Gold Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Gold Frame Amatsu (Incomplete)"
+        },
+        {
+          "level": "04",
+          "unitName": "Blitz Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Astray Gold Frame Amatsu Mina"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Gold Frame Amatsu (Incomplete)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Gold Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Red Frame"
+        },
+        {
+          "level": "05",
+          "unitName": "Blitz Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Astray Gold Frame Amatsu"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Gold Frame Amatsu Mina",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Gold Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Gold Frame Amatsu (Incomplete)"
+        },
+        {
+          "level": "04",
+          "unitName": "Blitz Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Red Frame \"Powered Red\"",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Mars Jacket"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Red Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Red Frame Flight Unit"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Astray Red Frame Custom"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Regenerate Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "ZAKU Warrior"
+        },
+        {
+          "level": "04",
+          "unitName": "Aegis Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Saviour Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Justice Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Blue Frame Full Weapon",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Blue Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Gold Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Blue Frame Scale System"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Blue Frame Second L"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Blue Frame Scale System",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Blue Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Gold Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Blue Frame Full Weapon"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Blue Frame Second L"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Blue Frame Second L Lohengrin Launcher",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Blue Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Blue Frame Second L"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Blue Frame Second G Sniper Pack"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Blue Frame Second Revise"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Red Frame Flight Unit",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "M1 Astray Shrike"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Red Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Murasame"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Red Frame \"Powered Red\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Dreadnought Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Dreadnought Gundam GuAIZ Head"
+        },
+        {
+          "level": "05",
+          "unitName": "X Astray"
+        },
+        {
+          "level": "06",
+          "unitName": "Justice Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Freedom Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Dreadnought Gundam GuAIZ Head",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GuAIZ R"
+        },
+        {
+          "level": "05",
+          "unitName": "Dreadnought Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "X Astray"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "X Astray",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Dreadnought Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Dreadnought H"
+        },
+        {
+          "level": "05",
+          "unitName": "Justice Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Freedom Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hyperion Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Strike Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Hyperion Gundam Unit 2"
+        },
+        {
+          "level": "05",
+          "unitName": "Super Hyperion Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Super Hyperion Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Hyperion Gundam"
+        },
+        {
+          "level": "02",
+          "unitName": "Hyperion Gundam Unit 2"
+        },
+        {
+          "level": "05",
+          "unitName": "Dreadnought H"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hyperion Gundam Unit 2",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Strike Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Hyperion Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Super Hyperion Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Blue Frame Second G Sniper Pack",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Blue Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Blue Frame Second L"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Blue Frame Second L Lohengrin Launcher"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Blue Frame Second Revise"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Destiny Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Impulse Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Destiny Impulse"
+        },
+        {
+          "level": "05",
+          "unitName": "Destiny Impulse R"
+        },
+        {
+          "level": "06",
+          "unitName": "Legend Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Legend Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Providence Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Destiny Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Impulse Gundam",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Chaos Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Abyss Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Gaia Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Destiny Impulse"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Saviour Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Aegis Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Impulse Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Regenerate Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Justice Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "ZAKU Warrior",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gunner ZAKU Warrior"
+        },
+        {
+          "level": "03",
+          "unitName": "Slash ZAKU Warrior"
+        },
+        {
+          "level": "03",
+          "unitName": "Blaze ZAKU Warrior"
+        },
+        {
+          "level": "04",
+          "unitName": "ZAKU Phantom"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "ZAKU Warrior Live Concert Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "ZAKU Warrior"
+        },
+        {
+          "level": "04",
+          "unitName": "ZAKU Phantom"
+        },
+        {
+          "level": "05",
+          "unitName": "GOUF Ignited"
+        },
+        {
+          "level": "06",
+          "unitName": "Dom Trooper"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gunner ZAKU Warrior",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "ZAKU Warrior"
+        },
+        {
+          "level": "04",
+          "unitName": "Slash ZAKU Warrior"
+        },
+        {
+          "level": "04",
+          "unitName": "Blaze ZAKU Warrior"
+        },
+        {
+          "level": "05",
+          "unitName": "ZAKU Phantom"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Blaze ZAKU Warrior",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "ZAKU Warrior"
+        },
+        {
+          "level": "04",
+          "unitName": "Gunner ZAKU Warrior"
+        },
+        {
+          "level": "04",
+          "unitName": "Slash ZAKU Warrior"
+        },
+        {
+          "level": "05",
+          "unitName": "ZAKU Phantom"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Slash ZAKU Warrior",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "ZAKU Warrior"
+        },
+        {
+          "level": "04",
+          "unitName": "Gunner ZAKU Warrior"
+        },
+        {
+          "level": "04",
+          "unitName": "Blaze ZAKU Warrior"
+        },
+        {
+          "level": "05",
+          "unitName": "ZAKU Phantom"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "ZAKU Phantom",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GuAIZ R"
+        },
+        {
+          "level": "04",
+          "unitName": "ZAKU Warrior"
+        },
+        {
+          "level": "05",
+          "unitName": "GOUF Ignited"
+        },
+        {
+          "level": "06",
+          "unitName": "Dom Trooper"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GOUF Ignited",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GuAIZ R"
+        },
+        {
+          "level": "04",
+          "unitName": "ZAKU Warrior"
+        },
+        {
+          "level": "04",
+          "unitName": "ZAKU Phantom"
+        },
+        {
+          "level": "06",
+          "unitName": "Dom Trooper"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "BABI",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN"
+        },
+        {
+          "level": "02",
+          "unitName": "CGUE"
+        },
+        {
+          "level": "04",
+          "unitName": "DINN"
+        },
+        {
+          "level": "05",
+          "unitName": "GuAIZ"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GuAIZ R",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "CGUE"
+        },
+        {
+          "level": "02",
+          "unitName": "GuAIZ"
+        },
+        {
+          "level": "05",
+          "unitName": "ZAKU Warrior"
+        },
+        {
+          "level": "07",
+          "unitName": "Dreadnought Gundam GuAIZ Head"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "ASH",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GOOhN"
+        },
+        {
+          "level": "02",
+          "unitName": "ZnO"
+        },
+        {
+          "level": "04",
+          "unitName": "BABI"
+        },
+        {
+          "level": "06",
+          "unitName": "Abyss Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GAZuOOT",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Linear-Gun Tank"
+        },
+        {
+          "level": "04",
+          "unitName": "ZuOOT"
+        },
+        {
+          "level": "04",
+          "unitName": "Works GINN"
+        },
+        {
+          "level": "06",
+          "unitName": "BuCUE 450mm 2-Barrel Railgun"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GINN High Maneuver Type 2",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN High Maneuver"
+        },
+        {
+          "level": "04",
+          "unitName": "CGUE"
+        },
+        {
+          "level": "05",
+          "unitName": "GuAIZ"
+        },
+        {
+          "level": "07",
+          "unitName": "ZAKU Warrior"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Chaos Gundam",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gaia Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Abyss Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Impulse Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Abyss Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GOOhN"
+        },
+        {
+          "level": "04",
+          "unitName": "Gaia Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Chaos Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Impulse Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gaia Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "LaGOWE"
+        },
+        {
+          "level": "04",
+          "unitName": "Chaos Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Abyss Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Impulse Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Destroy Gundam",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Raider Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Forbidden Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Calamity Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Zamza-Zah"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "105 Dagger Jet Striker",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Strike Dagger"
+        },
+        {
+          "level": "03",
+          "unitName": "105 Dagger"
+        },
+        {
+          "level": "03",
+          "unitName": "105 Slaughter Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "Dagger L Jet Striker"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Dagger L",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "105 Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "Dagger L Doppelhorn Twin Turret Recoilless Gun"
+        },
+        {
+          "level": "04",
+          "unitName": "Dark Dagger L"
+        },
+        {
+          "level": "05",
+          "unitName": "Windam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Dagger L Jet Striker",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "105 Dagger Jet Striker"
+        },
+        {
+          "level": "04",
+          "unitName": "Dagger L"
+        },
+        {
+          "level": "04",
+          "unitName": "Dagger L Doppelhorn Twin Turret Recoilless Gun"
+        },
+        {
+          "level": "05",
+          "unitName": "Windam Jet Striker"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Dagger L Doppelhorn Twin Turret Recoilless Gun",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "105 Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "Dagger L"
+        },
+        {
+          "level": "04",
+          "unitName": "Dagger L Jet Striker"
+        },
+        {
+          "level": "05",
+          "unitName": "Windam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Dark Dagger L",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "105 Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "105 Slaughter Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "Dagger L"
+        },
+        {
+          "level": "05",
+          "unitName": "Windam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Windam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "105 Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "Dagger L"
+        },
+        {
+          "level": "04",
+          "unitName": "Dark Dagger L"
+        },
+        {
+          "level": "04",
+          "unitName": "Windam Jet Striker"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Windam Jet Striker",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "105 Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "Dagger L"
+        },
+        {
+          "level": "04",
+          "unitName": "Dark Dagger L"
+        },
+        {
+          "level": "04",
+          "unitName": "Windam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Exass",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Moebius Linear Gun"
+        },
+        {
+          "level": "04",
+          "unitName": "Moebius Zero"
+        },
+        {
+          "level": "06",
+          "unitName": "Gun Barrel Dagger"
+        },
+        {
+          "level": "07",
+          "unitName": "Zamza-Zah"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Zamza-Zah",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Moebius Linear Gun"
+        },
+        {
+          "level": "04",
+          "unitName": "Exass"
+        },
+        {
+          "level": "05",
+          "unitName": "Gells-Ghe"
+        },
+        {
+          "level": "08",
+          "unitName": "Destroy Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gells-Ghe",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Strike Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "Exass"
+        },
+        {
+          "level": "05",
+          "unitName": "Zamza-Zah"
+        },
+        {
+          "level": "08",
+          "unitName": "Destroy Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Strike Rouge Ootori",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Strike Rouge"
+        },
+        {
+          "level": "04",
+          "unitName": "Strike Rouge IWSP"
+        },
+        {
+          "level": "05",
+          "unitName": "Perfect Strike Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Oowashi Akatsuki"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Oowashi Akatsuki",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "M1 Astray"
+        },
+        {
+          "level": "04",
+          "unitName": "Murasame"
+        },
+        {
+          "level": "04",
+          "unitName": "Strike Rouge Ootori"
+        },
+        {
+          "level": "05",
+          "unitName": "Perfect Strike Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "M1 Astray Shrike",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "M1 Astray"
+        },
+        {
+          "level": "02",
+          "unitName": "M1A Astray"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Red Frame Flight Unit"
+        },
+        {
+          "level": "06",
+          "unitName": "Murasame"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Murasame",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "M1 Astray"
+        },
+        {
+          "level": "02",
+          "unitName": "M1 Astray Shrike"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Red Frame Flight Unit"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Strike Freedom Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Strike Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Freedom Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Infinite Justice Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Strike Freedom Gundam METEOR"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Strike Freedom Gundam METEOR",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Freedom Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Freedom Gundam METEOR"
+        },
+        {
+          "level": "04",
+          "unitName": "Strike Freedom Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Infinite Justice Gundam METEOR"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Infinite Justice Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Aegis Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Justice Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Strike Freedom Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Infinite Justice Gundam METEOR"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Infinite Justice Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Justice Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Justice Gundam METEOR"
+        },
+        {
+          "level": "04",
+          "unitName": "Infinite Justice Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Strike Freedom Gundam METEOR"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Dom Trooper",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GuAIZ R"
+        },
+        {
+          "level": "04",
+          "unitName": "ZAKU Warrior"
+        },
+        {
+          "level": "04",
+          "unitName": "ZAKU Phantom"
+        },
+        {
+          "level": "04",
+          "unitName": "GOUF Ignited"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Destiny Impulse",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "ZAKU Warrior"
+        },
+        {
+          "level": "04",
+          "unitName": "Impulse Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Destiny Impulse R"
+        },
+        {
+          "level": "07",
+          "unitName": "Destiny Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Out Frame D",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Delta Astray"
+        },
+        {
+          "level": "03",
+          "unitName": "Stargazer Gundam"
+        },
+        {
+          "level": "03",
+          "unitName": "Testament Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Dreadnought H",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "X Astray"
+        },
+        {
+          "level": "04",
+          "unitName": "Super Hyperion Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Justice Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Freedom Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GINN Assault",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN Heavy Ion Cannon (M69 Barrus Kai)"
+        },
+        {
+          "level": "02",
+          "unitName": "GINN D-Type"
+        },
+        {
+          "level": "04",
+          "unitName": "CGUE Assault"
+        },
+        {
+          "level": "08",
+          "unitName": "Duel Gundam Assault Shroud"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Testament Gundam",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "ZAKU Warrior"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Out Frame D"
+        },
+        {
+          "level": "06",
+          "unitName": "Freedom Gundam"
+        },
+        {
+          "level": "07",
+          "unitName": "Providence Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Stargazer Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Mars Jacket"
+        },
+        {
+          "level": "05",
+          "unitName": "Delta Astray"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Astray Out Frame D"
+        },
+        {
+          "level": "08",
+          "unitName": "Strike Freedom Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Civilian Astray DSSD Custom",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "M1 Astray"
+        },
+        {
+          "level": "02",
+          "unitName": "M1A Astray"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Red Frame"
+        },
+        {
+          "level": "08",
+          "unitName": "Stargazer Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Strike Noir",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "105 Slaughter Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "Strike Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Verde Buster"
+        },
+        {
+          "level": "05",
+          "unitName": "Blu Duel"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Blu Duel",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "105 Slaughter Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "Duel Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Verde Buster"
+        },
+        {
+          "level": "05",
+          "unitName": "Strike Noir"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Verde Buster",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "105 Slaughter Dagger"
+        },
+        {
+          "level": "04",
+          "unitName": "Buster Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Blu Duel"
+        },
+        {
+          "level": "05",
+          "unitName": "Strike Noir"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "105 Slaughter Dagger",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "105 Dagger"
+        },
+        {
+          "level": "02",
+          "unitName": "105 Dagger Jet Striker"
+        },
+        {
+          "level": "04",
+          "unitName": "Dark Dagger L"
+        },
+        {
+          "level": "04",
+          "unitName": "Dagger L Jet Striker"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Linear-Gun Tank",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Combat Helicopter (E.A.)"
+        },
+        {
+          "level": "02",
+          "unitName": "Combat Helicopter (Orb Forces)"
+        },
+        {
+          "level": "04",
+          "unitName": "Spearhead"
+        },
+        {
+          "level": "06",
+          "unitName": "ZuOOT"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GINN Insurgent Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Works GINN"
+        },
+        {
+          "level": "02",
+          "unitName": "GINN"
+        },
+        {
+          "level": "04",
+          "unitName": "GINN High Maneuver"
+        },
+        {
+          "level": "05",
+          "unitName": "CGUE"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Kerberos BuCUE Hound",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "ZuOOT"
+        },
+        {
+          "level": "04",
+          "unitName": "GINN"
+        },
+        {
+          "level": "04",
+          "unitName": "BuCUE 450mm 2-Barrel Railgun"
+        },
+        {
+          "level": "05",
+          "unitName": "LaGOWE"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Delta Astray",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Mars Jacket"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Red Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Blue Frame"
+        },
+        {
+          "level": "06",
+          "unitName": "Stargazer Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Mars Jacket",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Civilian Astray DSSD Custom"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Red Frame"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Astray Red Frame \"Powered Red\""
+        },
+        {
+          "level": "07",
+          "unitName": "Delta Astray"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Green Frame",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "M1 Astray"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Red Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Blue Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Gold Frame"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "CGUE Assault",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GINN Assault"
+        },
+        {
+          "level": "02",
+          "unitName": "CGUE"
+        },
+        {
+          "level": "05",
+          "unitName": "CGUE DEEP Arms"
+        },
+        {
+          "level": "09",
+          "unitName": "Duel Gundam Assault Shroud"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Red Frame Custom",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Red Frame"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Red Frame Flight Unit"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Red Frame \"Powered Red\""
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Astray Red Frame Red Dragon"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Blue Frame Second Revise",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Blue Frame Second L"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Blue Frame Second L Lohengrin Launcher"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Blue Frame Second G Sniper Pack"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Blue Frame D"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Mirage Frame",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Red Frame"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Blue Frame"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Gold Frame"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Green Frame"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Red Frame Red Dragon",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Red Frame"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Red Frame Flight Unit"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Red Frame \"Powered Red\""
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Red Frame Custom"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Destiny Impulse R",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Impulse Gundam"
+        },
+        {
+          "level": "02",
+          "unitName": "Saviour Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Destiny Impulse"
+        },
+        {
+          "level": "06",
+          "unitName": "Destiny Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Blue Frame D",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Blue Frame"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Blue Frame Second L"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Blue Frame Second Revise"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Exia",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Exia Repair"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Dynames"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Avalanche Exia"
+        },
+        {
+          "level": "07",
+          "unitName": "GN Armor Type-E"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Exia Repair",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Tieren All-Region Type (Sergei)"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astraea Type F2"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Exia"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Exia Repair II"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Exia Repair II",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Exia Repair"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astraea Type F2"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Exia"
+        },
+        {
+          "level": "05",
+          "unitName": "0 Gundam Combat Unit GN Particle Condenser Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "00 Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Exia"
+        },
+        {
+          "level": "05",
+          "unitName": "00 Gundam Seven Sword/G"
+        },
+        {
+          "level": "06",
+          "unitName": "00 Raiser"
+        },
+        {
+          "level": "07",
+          "unitName": "00 XN Raiser"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "00 Raiser",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "0 Raiser"
+        },
+        {
+          "level": "04",
+          "unitName": "00 Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "00 Raiser Final Battle Type"
+        },
+        {
+          "level": "05",
+          "unitName": "00 Raiser GN Particle Condenser Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "00 Raiser Final Battle Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "0 Raiser"
+        },
+        {
+          "level": "04",
+          "unitName": "00 Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "00 Raiser GN Particle Condenser Type"
+        },
+        {
+          "level": "06",
+          "unitName": "Reborns Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Dynames",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Sadalsuud"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Kyrios"
+        },
+        {
+          "level": "06",
+          "unitName": "Cherudim Gundam"
+        },
+        {
+          "level": "07",
+          "unitName": "GN Armor Type-D"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Cherudim Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Dynames"
+        },
+        {
+          "level": "04",
+          "unitName": "Arios Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Cherudim Gundam GNHW/R"
+        },
+        {
+          "level": "05",
+          "unitName": "Cherudim Gundam SAGA"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Cherudim Gundam GNHW/R",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Cherudim Gundam"
+        },
+        {
+          "level": "02",
+          "unitName": "Arios Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Cherudim Gundam SAGA"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Zabanya"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Kyrios",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Abulhool"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Dynames"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Virtue"
+        },
+        {
+          "level": "06",
+          "unitName": "Arios Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Arios Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Kyrios"
+        },
+        {
+          "level": "04",
+          "unitName": "Seravee Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Arios Gundam GNHW/M"
+        },
+        {
+          "level": "05",
+          "unitName": "Arios Gundam Ascalon"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Arios Gundam GNHW/M",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Arios Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Seravee Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Arios Gundam Ascalon"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Harute"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Virtue",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Plutone"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Nadleeh"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Exia"
+        },
+        {
+          "level": "06",
+          "unitName": "Seravee Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Seravee Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Virtue"
+        },
+        {
+          "level": "04",
+          "unitName": "Seraphim Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Seravee Gundam GNHW/B"
+        },
+        {
+          "level": "05",
+          "unitName": "Seraphim Gundam GNHW/3G"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Seravee Gundam GNHW/B",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Seraphim Gundam GNHW/B"
+        },
+        {
+          "level": "04",
+          "unitName": "Seravee Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Seraphim Gundam GNHW/3G"
+        },
+        {
+          "level": "06",
+          "unitName": "Raphael Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Nadleeh",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gundam Artemie"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Virtue"
+        },
+        {
+          "level": "06",
+          "unitName": "Seraphim Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Seraphim Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Nadleeh"
+        },
+        {
+          "level": "04",
+          "unitName": "Seraphim Gundam GNHW/B"
+        },
+        {
+          "level": "04",
+          "unitName": "Seraphim Gundam GNHW/3G"
+        },
+        {
+          "level": "05",
+          "unitName": "Seravee Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Seraphim Gundam GNHW/B",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Nadleeh"
+        },
+        {
+          "level": "04",
+          "unitName": "Seraphim Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Seraphim Gundam GNHW/3G"
+        },
+        {
+          "level": "05",
+          "unitName": "Seravee Gundam GNHW/B"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GN Arms Type-D",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "GN Arms Type-E"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Dynames"
+        },
+        {
+          "level": "06",
+          "unitName": "0 Raiser"
+        },
+        {
+          "level": "08",
+          "unitName": "GN Armor Type-D"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GN Arms Type-E",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "GN Arms Type-D"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Exia"
+        },
+        {
+          "level": "06",
+          "unitName": "0 Raiser"
+        },
+        {
+          "level": "08",
+          "unitName": "GN Armor Type-E"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GN Armor Type-D",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN Arms Type-D"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Dynames"
+        },
+        {
+          "level": "05",
+          "unitName": "0 Raiser"
+        },
+        {
+          "level": "05",
+          "unitName": "GN Armor Type-E"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GN Armor Type-E",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN Arms Type-E"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Exia"
+        },
+        {
+          "level": "05",
+          "unitName": "0 Raiser"
+        },
+        {
+          "level": "05",
+          "unitName": "GN Armor Type-D"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "0 Raiser",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN Arms Type-E"
+        },
+        {
+          "level": "02",
+          "unitName": "GN Arms Type-D"
+        },
+        {
+          "level": "04",
+          "unitName": "GN Archer"
+        },
+        {
+          "level": "07",
+          "unitName": "00 Raiser"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GN Archer",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Artemie"
+        },
+        {
+          "level": "04",
+          "unitName": "0 Raiser"
+        },
+        {
+          "level": "05",
+          "unitName": "Arios Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "0 Gundam",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gundam Astraea"
+        },
+        {
+          "level": "05",
+          "unitName": "GRM Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "0 Gundam Combat Unit GN Particle Condenser Type"
+        },
+        {
+          "level": "07",
+          "unitName": "1.5 Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "0 Gundam Combat Unit GN Particle Condenser Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "0 Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "0 Gundam Combat Unit GN Drive Type"
+        },
+        {
+          "level": "06",
+          "unitName": "00 Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "0 Gundam Combat Unit GN Drive Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "0 Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "0 Gundam Combat Unit GN Particle Condenser Type"
+        },
+        {
+          "level": "06",
+          "unitName": "1.5 Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Throne Eins",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Throne Zwei"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Throne Drei"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Virtue"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Throne Zwei",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Throne Eins"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Throne Drei"
+        },
+        {
+          "level": "05",
+          "unitName": "Arche Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Throne Drei",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Throne Eins"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Throne Zwei"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Dynames"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Union Realdo Space Type (Katharon Colors)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Realdo"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren Space Type (Katharon Colors)"
+        },
+        {
+          "level": "04",
+          "unitName": "Union Flag"
+        },
+        {
+          "level": "05",
+          "unitName": "AEU Enact Space Type (Katharon Colors)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "AEU Enact Space Type (Katharon Colors)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Realdo Space Type (Katharon Colors)"
+        },
+        {
+          "level": "02",
+          "unitName": "Tieren Space Type (Katharon Colors)"
+        },
+        {
+          "level": "04",
+          "unitName": "AEU Enact"
+        },
+        {
+          "level": "07",
+          "unitName": "Agrissa"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tieren Space Type (Katharon Colors)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Realdo Space Type (Katharon Colors)"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren Space Type"
+        },
+        {
+          "level": "05",
+          "unitName": "AEU Enact Space Type (Katharon Colors)"
+        },
+        {
+          "level": "06",
+          "unitName": "Tieren All-Region Type (Sergei)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Union Flag",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Realdo"
+        },
+        {
+          "level": "04",
+          "unitName": "Over Flag"
+        },
+        {
+          "level": "05",
+          "unitName": "Union Flag Orbit Package \"Orbit Flag\""
+        },
+        {
+          "level": "05",
+          "unitName": "Union Flag Ground Heavy Armor Type \"Shell Flag\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Union Flag Custom (Graham)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Flag"
+        },
+        {
+          "level": "02",
+          "unitName": "Over Flag"
+        },
+        {
+          "level": "04",
+          "unitName": "Union Flag \"Flag Custom\" (Celestial Being)"
+        },
+        {
+          "level": "05",
+          "unitName": "Union Flag Custom II \"GN Flag\" (Graham)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Over Flag",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Realdo"
+        },
+        {
+          "level": "04",
+          "unitName": "Union Flag"
+        },
+        {
+          "level": "05",
+          "unitName": "Union Flag Orbit Package \"Orbit Flag\""
+        },
+        {
+          "level": "06",
+          "unitName": "Union Flag Custom (Graham)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Union Flag Custom II \"GN Flag\" (Graham)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Over Flag"
+        },
+        {
+          "level": "04",
+          "unitName": "Union Flag Custom (Graham)"
+        },
+        {
+          "level": "05",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "06",
+          "unitName": "Ahead Close-Combat Type \"Sakigake\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Union Flag Orbit Package \"Orbit Flag\"",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Realdo"
+        },
+        {
+          "level": "04",
+          "unitName": "Union Flag"
+        },
+        {
+          "level": "05",
+          "unitName": "Over Flag"
+        },
+        {
+          "level": "06",
+          "unitName": "Union Flag \"Flag Custom\" (Celestial Being)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Union Flag Ground Heavy Armor Type \"Shell Flag\"",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Realdo"
+        },
+        {
+          "level": "04",
+          "unitName": "Union Flag"
+        },
+        {
+          "level": "05",
+          "unitName": "Over Flag"
+        },
+        {
+          "level": "05",
+          "unitName": "Union Flag Orbit Package \"Orbit Flag\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Union Realdo",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "AEU Hellion"
+        },
+        {
+          "level": "02",
+          "unitName": "Union Realdo (Taribia Colors)"
+        },
+        {
+          "level": "02",
+          "unitName": "Union Realdo Space Type (Katharon Colors)"
+        },
+        {
+          "level": "03",
+          "unitName": "Union Flag"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "AEU Enact",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "AEU Hellion"
+        },
+        {
+          "level": "02",
+          "unitName": "AEU Enact (Demo Colors)"
+        },
+        {
+          "level": "04",
+          "unitName": "AEU Enact Space Type (Katharon Colors)"
+        },
+        {
+          "level": "06",
+          "unitName": "AEU Enact Custom Moralia Test Type (Saachez)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "AEU Enact (Demo Colors)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "AEU Hellion"
+        },
+        {
+          "level": "04",
+          "unitName": "Union Flag"
+        },
+        {
+          "level": "04",
+          "unitName": "AEU Enact"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "AEU Hellion",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "AEU Hellion Space Terrorist Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Union Realdo"
+        },
+        {
+          "level": "02",
+          "unitName": "AEU Hellion Ground Type (PMC Trust)"
+        },
+        {
+          "level": "04",
+          "unitName": "AEU Enact (Demo Colors)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tieren Ground Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Anf"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren Long-Range Cannon Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren High Mobility Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tieren Long-Range Cannon Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Tieren Ground Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren High Mobility Type"
+        },
+        {
+          "level": "06",
+          "unitName": "Tieren All-Region Type (Sergei)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tieren Space Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Tieren Ground Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren Space Type (Katharon Colors)"
+        },
+        {
+          "level": "06",
+          "unitName": "Tieren All-Region Type (Sergei)"
+        },
+        {
+          "level": "06",
+          "unitName": "Tieren Taozi"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tieren High Mobility Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Tieren Ground Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Tieren Long-Range Cannon Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Tieren High Mobility Type-B"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren All-Region Type (Sergei)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tieren High Mobility Type-B",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Tieren Ground Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Tieren Long-Range Cannon Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Tieren High Mobility Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren All-Region Type (Sergei)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tieren Taozi",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Tieren Ground Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Tieren Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren All-Region Type (Sergei)"
+        },
+        {
+          "level": "06",
+          "unitName": "GN-X"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tieren All-Region Type (Sergei)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Tieren Ground Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Tieren Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren High Mobility Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Tieren Taozi"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Anf",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "AEU Hellion"
+        },
+        {
+          "level": "03",
+          "unitName": "Tieren Ground Type"
+        },
+        {
+          "level": "03",
+          "unitName": "Union Realdo"
+        },
+        {
+          "level": "03",
+          "unitName": "Tieren Space Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Alvatore",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "04",
+          "unitName": "Alvaaron"
+        },
+        {
+          "level": "05",
+          "unitName": "Empruss"
+        },
+        {
+          "level": "07",
+          "unitName": "Reborns Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Alvaaron",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "0 Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "05",
+          "unitName": "1.5 Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Alvatore"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GN-X",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Advanced GN-X"
+        },
+        {
+          "level": "03",
+          "unitName": "GN-X II"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Throne Eins"
+        },
+        {
+          "level": "07",
+          "unitName": "Alvaaron"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GN-X III E.S.F. Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "04",
+          "unitName": "GN-X III (A-LAWS)"
+        },
+        {
+          "level": "04",
+          "unitName": "Superbia GN-X"
+        },
+        {
+          "level": "05",
+          "unitName": "GN-X IV"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GN-X III (A-LAWS)",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "GN-X III E.S.F. Type"
+        },
+        {
+          "level": "03",
+          "unitName": "GN-X III (Colony Corporation)"
+        },
+        {
+          "level": "03",
+          "unitName": "Superbia GN-X"
+        },
+        {
+          "level": "04",
+          "unitName": "Ahead"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Ahead",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "04",
+          "unitName": "GN-X III (A-LAWS)"
+        },
+        {
+          "level": "04",
+          "unitName": "Ahead Quantum Brainwave Type \"Smultron\""
+        },
+        {
+          "level": "05",
+          "unitName": "Ahead Close-Combat Type \"Sakigake\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Ahead Quantum Brainwave Type \"Smultron\"",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Tieren Taozi"
+        },
+        {
+          "level": "04",
+          "unitName": "GN-X III (A-LAWS)"
+        },
+        {
+          "level": "05",
+          "unitName": "Ahead"
+        },
+        {
+          "level": "06",
+          "unitName": "Ahead Close-Combat Type \"Sakigake\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Ahead Close-Combat Type \"Sakigake\"",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Flag Custom II \"GN Flag\" (Graham)"
+        },
+        {
+          "level": "04",
+          "unitName": "GN-X III (A-LAWS)"
+        },
+        {
+          "level": "05",
+          "unitName": "Ahead"
+        },
+        {
+          "level": "06",
+          "unitName": "Masurao"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Masurao",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Flag Custom II \"GN Flag\" (Graham)"
+        },
+        {
+          "level": "04",
+          "unitName": "Ahead Close-Combat Type \"Sakigake\""
+        },
+        {
+          "level": "05",
+          "unitName": "Brave Standard Test Type"
+        },
+        {
+          "level": "06",
+          "unitName": "Susanowo"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Susanowo",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Flag Custom II \"GN Flag\" (Graham)"
+        },
+        {
+          "level": "04",
+          "unitName": "Ahead Close-Combat Type \"Sakigake\""
+        },
+        {
+          "level": "04",
+          "unitName": "Masurao"
+        },
+        {
+          "level": "05",
+          "unitName": "Brave Commander Test Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Trilobite",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Flag"
+        },
+        {
+          "level": "04",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "05",
+          "unitName": "Superbia GN-X"
+        },
+        {
+          "level": "07",
+          "unitName": "Alvatore"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Union Realdo (Taribia Colors)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "AEU Hellion"
+        },
+        {
+          "level": "02",
+          "unitName": "Union Realdo"
+        },
+        {
+          "level": "02",
+          "unitName": "Union Realdo Space Type (Katharon Colors)"
+        },
+        {
+          "level": "03",
+          "unitName": "Union Flag"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "AEU Hellion Space Terrorist Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "AEU Hellion"
+        },
+        {
+          "level": "02",
+          "unitName": "AEU Hellion Ground Type (PMC Trust)"
+        },
+        {
+          "level": "02",
+          "unitName": "AEU Hellion Ground Type (Moralia)"
+        },
+        {
+          "level": "04",
+          "unitName": "AEU Enact (Demo Colors)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "AEU Hellion Ground Type (Moralia)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "AEU Hellion"
+        },
+        {
+          "level": "02",
+          "unitName": "AEU Hellion Space Terrorist Type"
+        },
+        {
+          "level": "02",
+          "unitName": "AEU Hellion Ground Type (PMC Trust)"
+        },
+        {
+          "level": "05",
+          "unitName": "AEU Enact Custom Moralia Test Type (Saachez)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "AEU Hellion Ground Type (PMC Trust)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "AEU Hellion"
+        },
+        {
+          "level": "02",
+          "unitName": "AEU Hellion Space Terrorist Type"
+        },
+        {
+          "level": "02",
+          "unitName": "AEU Hellion Ground Type (Moralia)"
+        },
+        {
+          "level": "03",
+          "unitName": "AEU Enact (Demo Colors)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "AEU Enact Custom Moralia Test Type (Saachez)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "AEU Hellion Ground Type (Moralia)"
+        },
+        {
+          "level": "04",
+          "unitName": "AEU Enact"
+        },
+        {
+          "level": "06",
+          "unitName": "Agrissa"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Agrissa",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "AEU Hellion"
+        },
+        {
+          "level": "02",
+          "unitName": "AEU Hellion Ground Type (Moralia)"
+        },
+        {
+          "level": "04",
+          "unitName": "AEU Enact"
+        },
+        {
+          "level": "05",
+          "unitName": "AEU Enact Custom Moralia Test Type (Saachez)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Arche Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Throne Drei"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Throne Zwei"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Throne Eins"
+        },
+        {
+          "level": "04",
+          "unitName": "Jagd Arche Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gadessa (Revive)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gadessa (Hilling)"
+        },
+        {
+          "level": "02",
+          "unitName": "Garazzo (Bring)"
+        },
+        {
+          "level": "04",
+          "unitName": "Gaddess"
+        },
+        {
+          "level": "05",
+          "unitName": "Empruss"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gadessa (Hilling)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gadessa (Revive)"
+        },
+        {
+          "level": "02",
+          "unitName": "Garazzo (Hilling)"
+        },
+        {
+          "level": "04",
+          "unitName": "Gaddess"
+        },
+        {
+          "level": "05",
+          "unitName": "Empruss"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Garazzo (Bring)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Garazzo (Hilling)"
+        },
+        {
+          "level": "02",
+          "unitName": "Gadessa (Revive)"
+        },
+        {
+          "level": "04",
+          "unitName": "Gaddess"
+        },
+        {
+          "level": "05",
+          "unitName": "Empruss"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Garazzo (Hilling)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Garazzo (Bring)"
+        },
+        {
+          "level": "02",
+          "unitName": "Gadessa (Hilling)"
+        },
+        {
+          "level": "04",
+          "unitName": "Gaddess"
+        },
+        {
+          "level": "05",
+          "unitName": "Empruss"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gaddess",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GRM Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Gadessa (Revive)"
+        },
+        {
+          "level": "04",
+          "unitName": "Garazzo (Bring)"
+        },
+        {
+          "level": "05",
+          "unitName": "Empruss"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Empruss",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gadessa (Revive)"
+        },
+        {
+          "level": "02",
+          "unitName": "Garazzo (Bring)"
+        },
+        {
+          "level": "02",
+          "unitName": "Gaddess"
+        },
+        {
+          "level": "04",
+          "unitName": "Regnant"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Regnant",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gaga"
+        },
+        {
+          "level": "04",
+          "unitName": "Empruss"
+        },
+        {
+          "level": "06",
+          "unitName": "Alvatore"
+        },
+        {
+          "level": "08",
+          "unitName": "Gadelaza"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gaga",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gaga Cannon"
+        },
+        {
+          "level": "06",
+          "unitName": "GRM Gundam"
+        },
+        {
+          "level": "08",
+          "unitName": "Gadessa (Revive)"
+        },
+        {
+          "level": "08",
+          "unitName": "Garazzo (Bring)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Reborns Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GRM Gundam"
+        },
+        {
+          "level": "02",
+          "unitName": "0 Gundam Combat Unit GN Drive Type"
+        },
+        {
+          "level": "05",
+          "unitName": "00 Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "1.5 Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astraea",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "0 Gundam"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Sadalsuud"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astraea Type F"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Exia"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Sadalsuud",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astraea"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Abulhool"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Sadalsuud Type F"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Dynames"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Abulhool",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Sadalsuud"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Plutone"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Abulhool Type F"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Kyrios"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Plutone",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Abulhool"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Astraea"
+        },
+        {
+          "level": "04",
+          "unitName": "Black Plutone"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Virtue"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Sefer Rasiel Form 1",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "0 Gundam"
+        },
+        {
+          "level": "02",
+          "unitName": "GN Arms Type-E"
+        },
+        {
+          "level": "02",
+          "unitName": "GN Arms Type-D"
+        },
+        {
+          "level": "03",
+          "unitName": "Black Sefer Rasiel"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Artemie",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Nadleeh"
+        },
+        {
+          "level": "04",
+          "unitName": "GN Archer"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astraea Type F",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astraea"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Sadalsuud Type F"
+        },
+        {
+          "level": "04",
+          "unitName": "Black Astraea"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astraea Type F2"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astraea Type F2",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astraea"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astraea Type F"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Exia"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Sadalsuud Type F",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Sadalsuud"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Abulhool Type F"
+        },
+        {
+          "level": "04",
+          "unitName": "Black Sadalsuud"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Dynames"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Abulhool Type F",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Abulhool"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Plutone"
+        },
+        {
+          "level": "04",
+          "unitName": "Black Abulhool"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Kyrios"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GN-X II",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Throne Eins"
+        },
+        {
+          "level": "05",
+          "unitName": "GN-X III E.S.F. Type"
+        },
+        {
+          "level": "06",
+          "unitName": "GN-X IV"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Black Astraea",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astraea Type F"
+        },
+        {
+          "level": "04",
+          "unitName": "Black Sadalsuud"
+        },
+        {
+          "level": "04",
+          "unitName": "Black Abulhool"
+        },
+        {
+          "level": "05",
+          "unitName": "Black Sefer Rasiel"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Black Sadalsuud",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Sadalsuud Type F"
+        },
+        {
+          "level": "04",
+          "unitName": "Black Astraea"
+        },
+        {
+          "level": "04",
+          "unitName": "Black Plutone"
+        },
+        {
+          "level": "05",
+          "unitName": "Black Sefer Rasiel"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Black Abulhool",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Abulhool Type F"
+        },
+        {
+          "level": "04",
+          "unitName": "Black Plutone"
+        },
+        {
+          "level": "04",
+          "unitName": "Black Astraea"
+        },
+        {
+          "level": "05",
+          "unitName": "Black Sefer Rasiel"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Black Plutone",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Plutone"
+        },
+        {
+          "level": "04",
+          "unitName": "Black Abulhool"
+        },
+        {
+          "level": "04",
+          "unitName": "Black Sadalsuud"
+        },
+        {
+          "level": "05",
+          "unitName": "Black Sefer Rasiel"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Black Sefer Rasiel",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Black Astraea"
+        },
+        {
+          "level": "03",
+          "unitName": "Black Abulhool"
+        },
+        {
+          "level": "03",
+          "unitName": "Black Sadalsuud"
+        },
+        {
+          "level": "04",
+          "unitName": "Sefer Rasiel Form 1"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "1.5 Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "0 Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "GRM Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Reborns Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "00 XN Raiser",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "00 Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "00 Raiser"
+        },
+        {
+          "level": "05",
+          "unitName": "00 QAN[T]"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Cherudim Gundam SAGA",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Cherudim Gundam"
+        },
+        {
+          "level": "02",
+          "unitName": "Arios Gundam"
+        },
+        {
+          "level": "02",
+          "unitName": "Cherudim Gundam GNHW/R"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Zabanya"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Arios Gundam Ascalon",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Arios Gundam"
+        },
+        {
+          "level": "02",
+          "unitName": "Seravee Gundam"
+        },
+        {
+          "level": "02",
+          "unitName": "Arios Gundam GNHW/M"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Harute"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Seravee Gundam GNHW/3G",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Seraphim Gundam GNHW/3G"
+        },
+        {
+          "level": "02",
+          "unitName": "Seravee Gundam"
+        },
+        {
+          "level": "02",
+          "unitName": "Seravee Gundam GNHW/B"
+        },
+        {
+          "level": "03",
+          "unitName": "Raphael Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Seraphim Gundam GNHW/3G",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Nadleeh"
+        },
+        {
+          "level": "04",
+          "unitName": "Seraphim Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Seraphim Gundam GNHW/B"
+        },
+        {
+          "level": "05",
+          "unitName": "Seravee Gundam GNHW/3G"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Advanced GN-X",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "04",
+          "unitName": "GN-X II"
+        },
+        {
+          "level": "05",
+          "unitName": "GN-X III E.S.F. Type"
+        },
+        {
+          "level": "07",
+          "unitName": "GN-X IV"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Superbia GN-X",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN-X III E.S.F. Type"
+        },
+        {
+          "level": "02",
+          "unitName": "GN-X III (A-LAWS)"
+        },
+        {
+          "level": "04",
+          "unitName": "Trilobite"
+        },
+        {
+          "level": "05",
+          "unitName": "GN-X IV"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GRM Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gaga"
+        },
+        {
+          "level": "04",
+          "unitName": "0 Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Gadessa (Revive)"
+        },
+        {
+          "level": "05",
+          "unitName": "Garazzo (Bring)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Jagd Arche Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Throne Drei"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Throne Zwei"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Throne Eins"
+        },
+        {
+          "level": "03",
+          "unitName": "Arche Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Avalanche Exia",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN Arms Type-E"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Exia"
+        },
+        {
+          "level": "06",
+          "unitName": "GN Armor Type-E"
+        },
+        {
+          "level": "07",
+          "unitName": "00 Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "00 Gundam Seven Sword/G",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Exia"
+        },
+        {
+          "level": "04",
+          "unitName": "00 Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "00 Raiser"
+        },
+        {
+          "level": "06",
+          "unitName": "00 XN Raiser"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "00 QAN[T] Full Saber",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Exia"
+        },
+        {
+          "level": "04",
+          "unitName": "00 Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "00 QAN[T]"
+        },
+        {
+          "level": "06",
+          "unitName": "Gadelaza"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "00 QAN[T]",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "00 Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "00 Raiser"
+        },
+        {
+          "level": "05",
+          "unitName": "00 XN Raiser"
+        },
+        {
+          "level": "06",
+          "unitName": "00 QAN[T] Full Saber"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Zabanya",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Cherudim Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Harute"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Zabanya Final Battle Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Zabanya Final Battle Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Dynames"
+        },
+        {
+          "level": "04",
+          "unitName": "Cherudim Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Zabanya"
+        },
+        {
+          "level": "05",
+          "unitName": "00 QAN[T] Full Saber"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Harute",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Arios Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Raphael Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Harute Final Battle Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Harute Final Battle Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Kyrios"
+        },
+        {
+          "level": "04",
+          "unitName": "Arios Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Harute"
+        },
+        {
+          "level": "05",
+          "unitName": "00 QAN[T] Full Saber"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Raphael Gundam",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Seravee Gundam"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Harute"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Zabanya"
+        },
+        {
+          "level": "06",
+          "unitName": "00 QAN[T] Full Saber"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "00 Raiser GN Particle Condenser Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "0 Raiser"
+        },
+        {
+          "level": "04",
+          "unitName": "00 Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "00 XN Raiser"
+        },
+        {
+          "level": "06",
+          "unitName": "00 QAN[T] Full Saber"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Union Flag \"Flag Custom\" (Celestial Being)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Flag"
+        },
+        {
+          "level": "02",
+          "unitName": "Over Flag"
+        },
+        {
+          "level": "02",
+          "unitName": "Union Flag Orbit Package \"Orbit Flag\""
+        },
+        {
+          "level": "03",
+          "unitName": "Union Flag Ground Heavy Armor Type \"Shell Flag\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Brave Standard Test Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Flag"
+        },
+        {
+          "level": "05",
+          "unitName": "Masurao"
+        },
+        {
+          "level": "06",
+          "unitName": "Brave Commander Test Type"
+        },
+        {
+          "level": "06",
+          "unitName": "Susanowo"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Brave Commander Test Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Union Flag"
+        },
+        {
+          "level": "04",
+          "unitName": "GN-X IV"
+        },
+        {
+          "level": "04",
+          "unitName": "Brave Standard Test Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Susanowo"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GN-X IV",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gaga"
+        },
+        {
+          "level": "02",
+          "unitName": "GN-X II"
+        },
+        {
+          "level": "04",
+          "unitName": "GN-X III E.S.F. Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Superbia GN-X"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gaga Cannon",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gaga"
+        },
+        {
+          "level": "05",
+          "unitName": "GRM Gundam"
+        },
+        {
+          "level": "07",
+          "unitName": "Gadessa (Revive)"
+        },
+        {
+          "level": "07",
+          "unitName": "Garazzo (Bring)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gadelaza",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN-X IV"
+        },
+        {
+          "level": "04",
+          "unitName": "Empruss"
+        },
+        {
+          "level": "06",
+          "unitName": "00 QAN[T]"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "GN-X III (Colony Corporation)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "04",
+          "unitName": "GN-X III E.S.F. Type"
+        },
+        {
+          "level": "04",
+          "unitName": "GN-X III (A-LAWS)"
+        },
+        {
+          "level": "05",
+          "unitName": "GN-X IV"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Barbatos 1st Form",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gundam Barbatos 2nd Form"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Barbatos 3rd Form"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Barbatos 4th Form"
+        },
+        {
+          "level": "08",
+          "unitName": "Gundam Barbatos 5th Form"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Barbatos 2nd Form",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Barbatos 1st Form"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Barbatos 3rd Form"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Barbatos 4th Form"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Barbatos 5th Form"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Barbatos 3rd Form",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Barbatos 2nd Form"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Barbatos 4th Form"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Barbatos 5th Form"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Barbatos 6th Form"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Barbatos 4th Form",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Barbatos 2nd Form"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Barbatos 3rd Form"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Barbatos 5th Form"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Barbatos 6th Form"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Barbatos 5th Form",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Barbatos 2nd Form"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Barbatos 3rd Form"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Barbatos 4th Form"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Barbatos 6th Form"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Barbatos 6th Form",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Barbatos 3rd Form"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Barbatos 4th Form"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Barbatos 5th Form"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Barbatos Lupus"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Barbatos Lupus",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Barbatos 4th Form"
+        },
+        {
+          "level": "08",
+          "unitName": "Gundam Barbatos Lupus Rex"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Barbatos Lupus Rex",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Barbatos 4th Form"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Barbatos Lupus"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Gusion Rebake",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Gusion"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Gusion Rebake Full City"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Gusion Rebake Full City",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Gusion"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Gusion Rebake"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Flauros \"Ryusei-Go\"",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Custom II \"Ryusei-Go\""
+        },
+        {
+          "level": "04",
+          "unitName": "Shiden Custom \"Ryusei-Go\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze Custom",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze"
+        },
+        {
+          "level": "02",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Custom II \"Ryusei-Go\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze Custom II \"Ryusei-Go\"",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Custom"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "06",
+          "unitName": "Shiden Custom \"Ryusei-Go\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Shiden",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Landman Rodi"
+        },
+        {
+          "level": "04",
+          "unitName": "Shiden Custom \"Ryusei-Go\""
+        },
+        {
+          "level": "06",
+          "unitName": "Hekija"
+        },
+        {
+          "level": "07",
+          "unitName": "Shiden (Orga)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Shiden (Orga)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Hyakuren"
+        },
+        {
+          "level": "02",
+          "unitName": "Rouei"
+        },
+        {
+          "level": "04",
+          "unitName": "Shiden"
+        },
+        {
+          "level": "05",
+          "unitName": "Hekija"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Shiden Custom \"Ryusei-Go\"",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Custom II \"Ryusei-Go\""
+        },
+        {
+          "level": "04",
+          "unitName": "Shiden"
+        },
+        {
+          "level": "05",
+          "unitName": "Riden-Go"
+        },
+        {
+          "level": "08",
+          "unitName": "Gundam Flauros \"Ryusei-Go\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Riden-Go",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Shiden"
+        },
+        {
+          "level": "02",
+          "unitName": "Shiden Custom \"Ryusei-Go\""
+        },
+        {
+          "level": "04",
+          "unitName": "Hekija"
+        },
+        {
+          "level": "05",
+          "unitName": "Shiden (Orga)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Landman Rodi",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Labrys"
+        },
+        {
+          "level": "02",
+          "unitName": "Man Rodi"
+        },
+        {
+          "level": "02",
+          "unitName": "Man Rodi JPT Trust Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Shiden"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Mobile Worker (Tekkadan)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "New Mobile Worker (Tekkadan)(Gray)"
+        },
+        {
+          "level": "04",
+          "unitName": "Mobile Worker (Gjallarhorn)"
+        },
+        {
+          "level": "04",
+          "unitName": "HD Mobile Worker"
+        },
+        {
+          "level": "05",
+          "unitName": "New Mobile Worker (Tekkadan)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "New Mobile Worker (Tekkadan)(Gray)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Mobile Worker (Tekkadan)"
+        },
+        {
+          "level": "04",
+          "unitName": "Mobile Worker (Gjallarhorn)"
+        },
+        {
+          "level": "04",
+          "unitName": "New Mobile Worker (Tekkadan)"
+        },
+        {
+          "level": "06",
+          "unitName": "Spinner Rodi"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "New Mobile Worker (Tekkadan)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "New Mobile Worker (Tekkadan)(Gray)"
+        },
+        {
+          "level": "04",
+          "unitName": "Mobile Worker (Gjallarhorn)"
+        },
+        {
+          "level": "04",
+          "unitName": "HD Mobile Worker"
+        },
+        {
+          "level": "09",
+          "unitName": "Hyakuren"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hyakuri",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Hyakuren"
+        },
+        {
+          "level": "04",
+          "unitName": "Kallisto"
+        },
+        {
+          "level": "04",
+          "unitName": "Rouei"
+        },
+        {
+          "level": "06",
+          "unitName": "Shiden"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hyakuren",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "New Mobile Worker (Tekkadan)"
+        },
+        {
+          "level": "05",
+          "unitName": "Triaina"
+        },
+        {
+          "level": "06",
+          "unitName": "Hyakuri"
+        },
+        {
+          "level": "07",
+          "unitName": "Rouei"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Rouei",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Hyakuren"
+        },
+        {
+          "level": "02",
+          "unitName": "Hyakuri"
+        },
+        {
+          "level": "04",
+          "unitName": "Shiden"
+        },
+        {
+          "level": "06",
+          "unitName": "Hekija"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hekija",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Hyakuren"
+        },
+        {
+          "level": "02",
+          "unitName": "Hyakuri"
+        },
+        {
+          "level": "02",
+          "unitName": "Rouei"
+        },
+        {
+          "level": "03",
+          "unitName": "Shiden"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Kimaris",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Schwalbe Graze (Gaelio)"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Kimaris Booster"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Kimaris Trooper"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Vidar"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Kimaris Booster",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Kimaris"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Kimaris Trooper"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Vidar"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Kimaris Trooper",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Kimaris"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Kimaris Booster"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Vidar"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Vidar",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Schwalbe Graze (Gaelio)"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Kimaris"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze Ein"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Kimaris Vidar"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Kimaris Vidar",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Schwalbe Graze (Gaelio)"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Kimaris"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Vidar"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Bael"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Hloekk Graze"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze Ritter Ground Type"
+        },
+        {
+          "level": "07",
+          "unitName": "Schwalbe Graze (McGillis)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze Duel Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Custom"
+        },
+        {
+          "level": "02",
+          "unitName": "Graze"
+        },
+        {
+          "level": "02",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "03",
+          "unitName": "Graze Custom II \"Ryusei-Go\""
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze Space Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Hloekk Graze"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze Ritter Space Type"
+        },
+        {
+          "level": "07",
+          "unitName": "Schwalbe Graze (Gaelio)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze Space Type (Arianrhod Fleet)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze"
+        },
+        {
+          "level": "02",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze (Dainsleif Team, Arianrhod Fleet)"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Ritter Space Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze Space Type (Gjallarhorn Revolution Force)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze"
+        },
+        {
+          "level": "02",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Ritter Space Type"
+        },
+        {
+          "level": "06",
+          "unitName": "Schwalbe Graze (McGillis)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze (Dainsleif Team, Arianrhod Fleet)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Space Type (Gjallarhorn Revolution Force)"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Ritter Space Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze Schild"
+        },
+        {
+          "level": "06",
+          "unitName": "Reginlaze"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze Ground Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze"
+        },
+        {
+          "level": "02",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Ritter Ground Type"
+        },
+        {
+          "level": "09",
+          "unitName": "Graze Ein"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze Schild",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Ritter Ground Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze Stachel"
+        },
+        {
+          "level": "06",
+          "unitName": "Reginlaze"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze Ritter Space Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Ritter Ground Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze Stachel"
+        },
+        {
+          "level": "06",
+          "unitName": "Reginlaze"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze Ritter Ground Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Ritter Space Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze Schild"
+        },
+        {
+          "level": "06",
+          "unitName": "Reginlaze"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Schwalbe Graze (McGillis)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze"
+        },
+        {
+          "level": "02",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Schwalbe Graze (Gaelio)"
+        },
+        {
+          "level": "07",
+          "unitName": "Grimgerde"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Schwalbe Graze (Gaelio)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Schwalbe Graze (McGillis)"
+        },
+        {
+          "level": "04",
+          "unitName": "Schwalbe Graze (Ein)"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Kimaris"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Schwalbe Graze (Ein)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze"
+        },
+        {
+          "level": "04",
+          "unitName": "Schwalbe Graze (McGillis)"
+        },
+        {
+          "level": "04",
+          "unitName": "Schwalbe Graze (Gaelio)"
+        },
+        {
+          "level": "08",
+          "unitName": "Graze Ein"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze Ein",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Ground Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Schwalbe Graze (Ein)"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Vidar"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Reginlaze",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Ritter Ground Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Graze Ritter Space Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Reginlaze Julia"
+        },
+        {
+          "level": "06",
+          "unitName": "Reginlaze Julia Ground Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Reginlaze Julia",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Graze Ritter Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Reginlaze"
+        },
+        {
+          "level": "05",
+          "unitName": "Reginlaze Julia Ground Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Reginlaze Julia Ground Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze"
+        },
+        {
+          "level": "02",
+          "unitName": "Graze Ritter Ground Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Reginlaze"
+        },
+        {
+          "level": "05",
+          "unitName": "Reginlaze Julia"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Bael",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Schwalbe Graze (McGillis)"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Kimaris"
+        },
+        {
+          "level": "04",
+          "unitName": "Grimgerde"
+        },
+        {
+          "level": "05",
+          "unitName": "Helmwige Reincar"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Grimgerde",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Schwalbe Graze (McGillis)"
+        },
+        {
+          "level": "04",
+          "unitName": "Oltlinde"
+        },
+        {
+          "level": "05",
+          "unitName": "Helmwige Reincar"
+        },
+        {
+          "level": "09",
+          "unitName": "Gundam Bael"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Helmwige Reincar",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Schwalbe Graze (McGillis)"
+        },
+        {
+          "level": "04",
+          "unitName": "Oltlinde"
+        },
+        {
+          "level": "04",
+          "unitName": "Grimgerde"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Mobile Worker (Gjallarhorn)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Mobile Worker (Tekkadan)"
+        },
+        {
+          "level": "02",
+          "unitName": "New Mobile Worker (Tekkadan)(Gray)"
+        },
+        {
+          "level": "04",
+          "unitName": "HD Mobile Worker"
+        },
+        {
+          "level": "06",
+          "unitName": "Hloekk Graze"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hugo JPT Trust Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Man Rodi JPT Trust Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Hugo"
+        },
+        {
+          "level": "05",
+          "unitName": "Hugo (Twins/Younger Brother)"
+        },
+        {
+          "level": "05",
+          "unitName": "Hugo (Twins/Older Brother)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Man Rodi JPT Trust Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Labrys"
+        },
+        {
+          "level": "02",
+          "unitName": "Man Rodi"
+        },
+        {
+          "level": "05",
+          "unitName": "Hyakuren"
+        },
+        {
+          "level": "07",
+          "unitName": "Hugo JPT Trust Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Gusion",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Man Rodi"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Gusion Rebake"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Gusion Rebake Full City"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Man Rodi",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Landman Rodi"
+        },
+        {
+          "level": "05",
+          "unitName": "Hakuri Rodi (Yuhana)"
+        },
+        {
+          "level": "05",
+          "unitName": "Hakuri Rodi (Sampo)"
+        },
+        {
+          "level": "09",
+          "unitName": "Gundam Gusion"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Spinner Rodi",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Labrys"
+        },
+        {
+          "level": "03",
+          "unitName": "Man Rodi"
+        },
+        {
+          "level": "03",
+          "unitName": "Garm Rodi"
+        },
+        {
+          "level": "05",
+          "unitName": "Gilda Standard Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hugo",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gilda Standard Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Hugo JPT Trust Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Hugo (Twins/Younger Brother)"
+        },
+        {
+          "level": "05",
+          "unitName": "Hugo (Twins/Older Brother)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hugo (Twins/Older Brother)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gilda Standard Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Hugo"
+        },
+        {
+          "level": "02",
+          "unitName": "Hugo JPT Trust Type"
+        },
+        {
+          "level": "03",
+          "unitName": "Hugo (Twins/Younger Brother)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hugo (Twins/Younger Brother)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gilda Standard Type"
+        },
+        {
+          "level": "02",
+          "unitName": "Hugo"
+        },
+        {
+          "level": "02",
+          "unitName": "Hugo JPT Trust Type"
+        },
+        {
+          "level": "03",
+          "unitName": "Hugo (Twins/Older Brother)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Garm Rodi",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Spinner Rodi"
+        },
+        {
+          "level": "04",
+          "unitName": "Labrys"
+        },
+        {
+          "level": "04",
+          "unitName": "Man Rodi"
+        },
+        {
+          "level": "07",
+          "unitName": "Hugo"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "HD Mobile Worker",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Mobile Worker (Tekkadan)"
+        },
+        {
+          "level": "02",
+          "unitName": "New Mobile Worker (Tekkadan)(Gray)"
+        },
+        {
+          "level": "04",
+          "unitName": "Mobile Worker (Gjallarhorn)"
+        },
+        {
+          "level": "06",
+          "unitName": "Garm Rodi"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gilda Standard Type",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Spinner Rodi"
+        },
+        {
+          "level": "05",
+          "unitName": "Hugo"
+        },
+        {
+          "level": "06",
+          "unitName": "Hugo (Twins/Younger Brother)"
+        },
+        {
+          "level": "06",
+          "unitName": "Hugo (Twins/Older Brother)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Geirail",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Hloekk Graze"
+        },
+        {
+          "level": "04",
+          "unitName": "Geirail Scharfrichter"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze Space Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Geirail Scharfrichter",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Hloekk Graze"
+        },
+        {
+          "level": "02",
+          "unitName": "Geirail"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Space Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hloekk Graze",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Geirail"
+        },
+        {
+          "level": "04",
+          "unitName": "Geirail Scharfrichter"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze Space Type"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hashmal",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Pluma"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Pluma",
+      "developIntos": [
+        {
+          "level": "20",
+          "unitName": "Hashmal"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astaroth",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Gundam Vual"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astaroth Rinascimento"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Dantalion"
+        },
+        {
+          "level": "09",
+          "unitName": "Gundam Astaroth Origin"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astaroth Rinascimento",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astaroth"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Astaroth Origin"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astaroth Origin",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astaroth"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astaroth Rinascimento"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Vual Yuhana",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Hakuri Rodi (Yuhana)"
+        },
+        {
+          "level": "02",
+          "unitName": "Hakuri Rodi (Sampo)"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Vual"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Astaroth Rinascimento"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Regal Lily",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Labrys"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Hyakuren"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Kallisto",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Labrys"
+        },
+        {
+          "level": "04",
+          "unitName": "Hyakuri"
+        },
+        {
+          "level": "05",
+          "unitName": "Rouei"
+        },
+        {
+          "level": "11",
+          "unitName": "Gundam Astaroth Origin"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Labrys",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Spinner Rodi"
+        },
+        {
+          "level": "04",
+          "unitName": "Man Rodi"
+        },
+        {
+          "level": "04",
+          "unitName": "Garm Rodi"
+        },
+        {
+          "level": "06",
+          "unitName": "Regal Lily"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hakuri Rodi (Sampo)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Labrys"
+        },
+        {
+          "level": "02",
+          "unitName": "Man Rodi"
+        },
+        {
+          "level": "04",
+          "unitName": "Hakuri Rodi (Yuhana)"
+        },
+        {
+          "level": "09",
+          "unitName": "Gundam Vual Yuhana"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Hakuri Rodi (Yuhana)",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Labrys"
+        },
+        {
+          "level": "02",
+          "unitName": "Man Rodi"
+        },
+        {
+          "level": "04",
+          "unitName": "Hakuri Rodi (Sampo)"
+        },
+        {
+          "level": "09",
+          "unitName": "Gundam Vual Yuhana"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Vual",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astaroth"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Vual Yuhana"
+        },
+        {
+          "level": "07",
+          "unitName": "Gundam Dantalion"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Adler",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze Ritter Space Type"
+        },
+        {
+          "level": "06",
+          "unitName": "Regal Lily"
+        },
+        {
+          "level": "07",
+          "unitName": "Reginlaze"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Triaina",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Labrys"
+        },
+        {
+          "level": "04",
+          "unitName": "Hyakuren"
+        },
+        {
+          "level": "05",
+          "unitName": "Hyakuri"
+        },
+        {
+          "level": "06",
+          "unitName": "Rouei"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Dantalion",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astaroth"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Vual"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Gremory"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Dantalion T-Booster"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Dantalion T-Booster",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astaroth"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Vual"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Dantalion"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Gremory"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Gremory",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astaroth"
+        },
+        {
+          "level": "02",
+          "unitName": "Gundam Vual"
+        },
+        {
+          "level": "04",
+          "unitName": "Oltlinde"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Dantalion"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Oltlinde",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Stachel"
+        },
+        {
+          "level": "05",
+          "unitName": "Grimgerde"
+        },
+        {
+          "level": "06",
+          "unitName": "Helmwige Reincar"
+        },
+        {
+          "level": "08",
+          "unitName": "Gundam Gremory"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Graze Stachel",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Graze Space Type"
+        },
+        {
+          "level": "04",
+          "unitName": "Graze Ritter Space Type"
+        },
+        {
+          "level": "05",
+          "unitName": "Graze Schild"
+        },
+        {
+          "level": "06",
+          "unitName": "Reginlaze"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Tornado Gundam",
+      "developIntos": [
+        {
+          "level": "04",
+          "unitName": "Phoenix Zero"
+        },
+        {
+          "level": "04",
+          "unitName": "Landman Rodi"
+        },
+        {
+          "level": "04",
+          "unitName": "M1A Astray"
+        },
+        {
+          "level": "04",
+          "unitName": "Tieren All-Region Type (Sergei)"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Phoenix Gundam",
+      "developIntos": [
+        {
+          "level": "06",
+          "unitName": "Phoenix Gundam Full Power"
+        },
+        {
+          "level": "06",
+          "unitName": "Dom Trooper"
+        },
+        {
+          "level": "06",
+          "unitName": "Reginlaze"
+        },
+        {
+          "level": "07",
+          "unitName": "Tallgeese"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Phoenix Gundam Full Power",
+      "developIntos": [
+        {
+          "level": "06",
+          "unitName": "Gundam Barbatos 3rd Form"
+        },
+        {
+          "level": "06",
+          "unitName": "Strike Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "Gundam Exia"
+        },
+        {
+          "level": "10",
+          "unitName": "Haro"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Phoenix Zero",
+      "developIntos": [
+        {
+          "level": "04",
+          "unitName": "Phoenix Zero One"
+        },
+        {
+          "level": "05",
+          "unitName": "Taurus"
+        },
+        {
+          "level": "05",
+          "unitName": "0 Gundam"
+        },
+        {
+          "level": "05",
+          "unitName": "Hyakuren"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Phoenix Zero One",
+      "developIntos": [
+        {
+          "level": "05",
+          "unitName": "Phoenix Gundam"
+        },
+        {
+          "level": "06",
+          "unitName": "GN-X"
+        },
+        {
+          "level": "06",
+          "unitName": "Virgo"
+        },
+        {
+          "level": "06",
+          "unitName": "ZAKU Warrior"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Aquarius",
+      "developIntos": [
+        {
+          "level": "03",
+          "unitName": "Wing Gundam Zero"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Epyon"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Epyon EW"
+        },
+        {
+          "level": "05",
+          "unitName": "Wing Gundam Zero EW"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Haro",
+      "developIntos": [
+        {
+          "level": "10",
+          "unitName": "00 Gundam"
+        },
+        {
+          "level": "13",
+          "unitName": "Freedom Gundam"
+        },
+        {
+          "level": "16",
+          "unitName": "Wing Gundam Zero"
+        },
+        {
+          "level": "20",
+          "unitName": "Psycho Haro"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Psycho Haro",
+      "developIntos": [
+        {
+          "level": "10",
+          "unitName": "Gundam Barbatos Lupus"
+        },
+        {
+          "level": "12",
+          "unitName": "Gundam Aquarius"
+        },
+        {
+          "level": "14",
+          "unitName": "Gadelaza"
+        },
+        {
+          "level": "16",
+          "unitName": "Destroy Gundam"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Gundam Astray Gold Frame Amaterasu",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "Gundam Astray Gold Frame"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Gold Frame Amatsu (Incomplete)"
+        },
+        {
+          "level": "04",
+          "unitName": "Gundam Astray Gold Frame Amatsu"
+        },
+        {
+          "level": "05",
+          "unitName": "Gundam Astray Gold Frame Amatsu Mina"
+        }
+      ]
+    },
+    {
+      "baseUnitName": "Lord AstrayΩ",
+      "developIntos": [
+        {
+          "level": "02",
+          "unitName": "M1 Astray"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Red Frame"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Blue Frame"
+        },
+        {
+          "level": "03",
+          "unitName": "Gundam Astray Gold Frame"
+        }
+      ]
+    }
+  ]
+}
