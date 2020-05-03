@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		785037E4245E9E6A00495742 /* JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785037E3245E9E6A00495742 /* JSON.swift */; };
+		785037E6245E9F3900495742 /* JSON+Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785037E5245E9F3900495742 /* JSON+Model.swift */; };
+		785037E8245E9F4A00495742 /* JSON+Loader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785037E7245E9F4A00495742 /* JSON+Loader.swift */; };
+		785037EC245EA4DD00495742 /* ModelGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785037EB245EA4DD00495742 /* ModelGraph.swift */; };
 		78D78117244D559B001C59DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78116244D559B001C59DE /* AppDelegate.swift */; };
 		78D78119244D559B001C59DE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78118244D559B001C59DE /* SceneDelegate.swift */; };
 		78D7811B244D559B001C59DE /* UnitListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D7811A244D559B001C59DE /* UnitListView.swift */; };
@@ -20,11 +24,7 @@
 		78D78142244E8FAD001C59DE /* Development.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78141244E8FAD001C59DE /* Development.swift */; };
 		78D78146244E97C6001C59DE /* UnitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78145244E97C6001C59DE /* UnitDetailView.swift */; };
 		78D78148244EB9CD001C59DE /* Series.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78147244EB9CD001C59DE /* Series.swift */; };
-		78D7814B244EC3DC001C59DE /* UnitListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D7814A244EC3DC001C59DE /* UnitListViewModel.swift */; };
-		78D7814D244EC4B0001C59DE /* UnitDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D7814C244EC4B0001C59DE /* UnitDetailViewModel.swift */; };
-		78D7814F244EEE77001C59DE /* SeriesListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D7814E244EEE77001C59DE /* SeriesListViewModel.swift */; };
-		78D78151244EEEBE001C59DE /* SeriesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78150244EEEBE001C59DE /* SeriesListView.swift */; };
-		78D78154244EF2B6001C59DE /* DataRepo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78153244EF2B6001C59DE /* DataRepo.swift */; };
+		78D78151244EEEBE001C59DE /* AllSeriesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78150244EEEBE001C59DE /* AllSeriesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +38,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		785037E3245E9E6A00495742 /* JSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSON.swift; sourceTree = "<group>"; };
+		785037E5245E9F3900495742 /* JSON+Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "JSON+Model.swift"; sourceTree = "<group>"; };
+		785037E7245E9F4A00495742 /* JSON+Loader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "JSON+Loader.swift"; sourceTree = "<group>"; };
+		785037EB245EA4DD00495742 /* ModelGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelGraph.swift; sourceTree = "<group>"; };
 		78D78113244D559B001C59DE /* CrossRaysUnitBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CrossRaysUnitBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78D78116244D559B001C59DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		78D78118244D559B001C59DE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -55,11 +59,7 @@
 		78D78141244E8FAD001C59DE /* Development.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Development.swift; sourceTree = "<group>"; };
 		78D78145244E97C6001C59DE /* UnitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitDetailView.swift; sourceTree = "<group>"; };
 		78D78147244EB9CD001C59DE /* Series.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Series.swift; sourceTree = "<group>"; };
-		78D7814A244EC3DC001C59DE /* UnitListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitListViewModel.swift; sourceTree = "<group>"; };
-		78D7814C244EC4B0001C59DE /* UnitDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitDetailViewModel.swift; sourceTree = "<group>"; };
-		78D7814E244EEE77001C59DE /* SeriesListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeriesListViewModel.swift; sourceTree = "<group>"; };
-		78D78150244EEEBE001C59DE /* SeriesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeriesListView.swift; sourceTree = "<group>"; };
-		78D78153244EF2B6001C59DE /* DataRepo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataRepo.swift; sourceTree = "<group>"; };
+		78D78150244EEEBE001C59DE /* AllSeriesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllSeriesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,9 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				78D78138244D55B3001C59DE /* Data */,
-				78D78152244EF2A9001C59DE /* Repo */,
 				78D78139244D55BC001C59DE /* Model */,
-				78D78149244EC2FD001C59DE /* ViewModel */,
 				78D7813A244D55DD001C59DE /* View */,
 				78D78116244D559B001C59DE /* AppDelegate.swift */,
 				78D78118244D559B001C59DE /* SceneDelegate.swift */,
@@ -138,6 +136,9 @@
 			children = (
 				78D7813B244D5622001C59DE /* developments.json */,
 				78D7813C244D5622001C59DE /* units.json */,
+				785037E3245E9E6A00495742 /* JSON.swift */,
+				785037E5245E9F3900495742 /* JSON+Model.swift */,
+				785037E7245E9F4A00495742 /* JSON+Loader.swift */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -145,9 +146,10 @@
 		78D78139244D55BC001C59DE /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				78D7813F244D8ADD001C59DE /* Unit.swift */,
 				78D78141244E8FAD001C59DE /* Development.swift */,
 				78D78147244EB9CD001C59DE /* Series.swift */,
+				78D7813F244D8ADD001C59DE /* Unit.swift */,
+				785037EB245EA4DD00495742 /* ModelGraph.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -155,29 +157,11 @@
 		78D7813A244D55DD001C59DE /* View */ = {
 			isa = PBXGroup;
 			children = (
-				78D78150244EEEBE001C59DE /* SeriesListView.swift */,
+				78D78150244EEEBE001C59DE /* AllSeriesView.swift */,
 				78D7811A244D559B001C59DE /* UnitListView.swift */,
 				78D78145244E97C6001C59DE /* UnitDetailView.swift */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		78D78149244EC2FD001C59DE /* ViewModel */ = {
-			isa = PBXGroup;
-			children = (
-				78D7814E244EEE77001C59DE /* SeriesListViewModel.swift */,
-				78D7814A244EC3DC001C59DE /* UnitListViewModel.swift */,
-				78D7814C244EC4B0001C59DE /* UnitDetailViewModel.swift */,
-			);
-			path = ViewModel;
-			sourceTree = "<group>";
-		};
-		78D78152244EF2A9001C59DE /* Repo */ = {
-			isa = PBXGroup;
-			children = (
-				78D78153244EF2B6001C59DE /* DataRepo.swift */,
-			);
-			path = Repo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -284,14 +268,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				78D78117244D559B001C59DE /* AppDelegate.swift in Sources */,
-				78D78151244EEEBE001C59DE /* SeriesListView.swift in Sources */,
+				785037E4245E9E6A00495742 /* JSON.swift in Sources */,
+				78D78151244EEEBE001C59DE /* AllSeriesView.swift in Sources */,
 				78D78140244D8ADD001C59DE /* Unit.swift in Sources */,
 				78D78148244EB9CD001C59DE /* Series.swift in Sources */,
-				78D7814B244EC3DC001C59DE /* UnitListViewModel.swift in Sources */,
-				78D78154244EF2B6001C59DE /* DataRepo.swift in Sources */,
+				785037EC245EA4DD00495742 /* ModelGraph.swift in Sources */,
+				785037E6245E9F3900495742 /* JSON+Model.swift in Sources */,
 				78D78146244E97C6001C59DE /* UnitDetailView.swift in Sources */,
-				78D7814D244EC4B0001C59DE /* UnitDetailViewModel.swift in Sources */,
-				78D7814F244EEE77001C59DE /* SeriesListViewModel.swift in Sources */,
+				785037E8245E9F4A00495742 /* JSON+Loader.swift in Sources */,
 				78D78119244D559B001C59DE /* SceneDelegate.swift in Sources */,
 				78D7811B244D559B001C59DE /* UnitListView.swift in Sources */,
 				78D78142244E8FAD001C59DE /* Development.swift in Sources */,

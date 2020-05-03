@@ -1,62 +1,61 @@
 import SwiftUI
 
 struct UnitDetailView: View {
-    @EnvironmentObject var dataRepo: DataRepo
+    let unit: Unit
+
     @State var selectedUnit: Unit?
-    let viewModel: UnitDetailViewModel
 
     var body: some View {
         NavigationView {
             ScrollView {
                 VStack(alignment: .leading) {
                     HStack(alignment: .top) {
-                        Image(viewModel.unit.iconKey)
+                        Image(unit.iconName)
                             .resizable()
                             .background(Color(UIColor.systemGray5))
                             .frame(width: 96, height: 48)
 
                         VStack {
-                            AttributeView(label: "Cost", value: viewModel.unit.cost)
-                            AttributeView(label: "EXP", value: viewModel.unit.exp)
-                            AttributeView(label: "HP", value: viewModel.unit.hp)
-                            AttributeView(label: "EN", value: viewModel.unit.en)
-                            AttributeView(label: "Size", value: viewModel.unit.size)
-                            AttributeView(label: "Atk", value: viewModel.unit.attack)
-                            AttributeView(label: "Def", value: viewModel.unit.defence)
-                            AttributeView(label: "Mob", value: viewModel.unit.mobility)
-                            AttributeView(label: "Mov", value: viewModel.unit.movement)
+                            AttributeView(label: "Cost", value: unit.cost)
+                            AttributeView(label: "EXP", value: unit.exp)
+                            AttributeView(label: "HP", value: unit.hp)
+                            AttributeView(label: "EN", value: unit.en)
+                            AttributeView(label: "Size", value: unit.size)
+                            AttributeView(label: "Atk", value: unit.attack)
+                            AttributeView(label: "Def", value: unit.defence)
+                            AttributeView(label: "Mob", value: unit.mobility)
+                            AttributeView(label: "Mov", value: unit.movement)
                         }
                     }
                     .padding(.top, 16)
 
-                    if !viewModel.developIntos.isEmpty {
+                    if !unit.developIntos.isEmpty {
                         Divider()
 
-                        ForEach(viewModel.developIntos) { develop in
-                            UnitDevelopView(unit: self.viewModel.unit, develop: develop)
+                        ForEach(unit.developIntos) { development in
+                            UnitDevelopView(unit: self.unit, development: development, isDevelopInto: true)
                                 .onTapGesture {
-                                    self.selectedUnit = develop.unit
+                                    self.selectedUnit = development.unit
                                 }
                         }
                     }
 
-                    if !viewModel.developFroms.isEmpty {
+                    if !unit.developFroms.isEmpty {
                         Divider()
 
-                        ForEach(viewModel.developFroms) { develop in
-                            UnitDevelopView(unit: self.viewModel.unit, develop: develop)
+                        ForEach(unit.developFroms) { development in
+                            UnitDevelopView(unit: self.unit, development: development, isDevelopInto: false)
                                 .onTapGesture {
-                                    self.selectedUnit = develop.unit
+                                    self.selectedUnit = development.unit
                                 }
                         }
                     }
                 }
             }
-            .navigationBarTitle(Text(viewModel.unit.name), displayMode: .inline)
+            .navigationBarTitle(Text(unit.name), displayMode: .inline)
         }
         .sheet(item: $selectedUnit) {
-            UnitDetailView(viewModel: .make(unit: $0, dataRepo: self.dataRepo))
-                .environmentObject(self.dataRepo)
+            UnitDetailView(unit: $0)
         }
     }
 }
@@ -95,18 +94,19 @@ struct AttributeView: View {
 
 struct UnitDevelopView: View {
     let unit: Unit
-    let develop: Develop
+    let development: Development
+    let isDevelopInto: Bool
 
     var body: some View {
         HStack {
-            if develop.direction == .into {
+            if isDevelopInto {
                 ZStack(alignment: .bottomTrailing) {
-                    Image(unit.iconKey)
+                    Image(unit.iconName)
                     .resizable()
                     .background(Color(UIColor.systemGray5))
                     .frame(width: 96, height: 48)
 
-                    Text("Lv\(develop.level)")
+                    Text("Lv\(development.level)")
                         .font(.caption)
                         .foregroundColor(Color.white)
                         .padding(EdgeInsets(top: 2, leading: 4, bottom: 2, trailing: 4))
@@ -115,12 +115,12 @@ struct UnitDevelopView: View {
 
                 Text("➡️")
 
-                Image(develop.unit.iconKey)
+                Image(development.unit.iconName)
                     .resizable()
                     .background(Color(UIColor.systemGray5))
                     .frame(width: 96, height: 48)
             } else {
-                Image(unit.iconKey)
+                Image(unit.iconName)
                     .resizable()
                     .background(Color(UIColor.systemGray5))
                     .frame(width: 96, height: 48)
@@ -128,12 +128,12 @@ struct UnitDevelopView: View {
                 Text("⬅️")
 
                 ZStack(alignment: .bottomTrailing) {
-                    Image(develop.unit.iconKey)
+                    Image(development.unit.iconName)
                         .resizable()
                         .background(Color(UIColor.systemGray5))
                         .frame(width: 96, height: 48)
 
-                    Text("Lv\(develop.level)")
+                    Text("Lv\(development.level)")
                         .font(.caption)
                         .foregroundColor(Color.white)
                         .padding(EdgeInsets(top: 2, leading: 4, bottom: 2, trailing: 4))
@@ -141,18 +141,17 @@ struct UnitDevelopView: View {
                 }
             }
 
-            Text(develop.unit.name)
+            Text(development.unit.name)
         }
     }
 }
 
 struct UnitDetailView_Previews: PreviewProvider {
-    static let dataRepo = DataRepo()
+    static let unit = JSON.loadUnits().first.map { Unit(series: Series(title: "", logoName: ""), json: $0) }!
 
     static var previews: some View {
         NavigationView {
-            UnitDetailView(viewModel: .make(unit: dataRepo.units.first!, dataRepo: dataRepo))
-                .environmentObject(dataRepo)
+            UnitDetailView(unit: unit)
         }
     }
 }

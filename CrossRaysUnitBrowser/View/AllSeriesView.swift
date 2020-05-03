@@ -1,17 +1,14 @@
 import SwiftUI
 
-struct SeriesListView: View {
-    @EnvironmentObject var dataRepo: DataRepo
-    let viewModel: SeriesListViewModel
+struct AllSeriesView: View {
+    let allSeries: [Series]
 
     var body: some View {
-        let viewModel = SeriesListViewModel(seriesList: dataRepo.series)
-
-        return NavigationView {
+        NavigationView {
             List {
-                ForEach(viewModel.seriesList) { series in
-                    NavigationLink(destination: UnitListView(viewModel: .make(series: series, dataRepo: self.dataRepo))) {
-                        SeriesRowView(series: series)
+                ForEach(allSeries) { aSeries in
+                    NavigationLink(destination: UnitListView(title: aSeries.title, units: aSeries.units)) {
+                        SeriesRowView(series: aSeries)
                     }
                 }
                 .listRowInsets(EdgeInsets(top: 0, leading: 0, bottom: 0, trailing: 12))
@@ -35,11 +32,10 @@ struct SeriesRowView: View {
     }
 }
 
-struct SeriesListView_Previews: PreviewProvider {
-    static let dataRepo = DataRepo()
+struct AllSeriesView_Previews: PreviewProvider {
+    static let series = ModelGraph().build()
 
     static var previews: some View {
-        SeriesListView(viewModel: .make(dataRepo: dataRepo))
-            .environmentObject(dataRepo)
+        AllSeriesView(allSeries: series)
     }
 }

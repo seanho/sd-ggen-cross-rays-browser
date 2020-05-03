@@ -8,9 +8,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
         UITableView.appearance().separatorColor = .clear
 
-        let dataRepo = DataRepo()
-        let contentView = SeriesListView(viewModel: .make(dataRepo: dataRepo))
-            .environmentObject(dataRepo)
+        let series = ModelGraph().build()
+        let contentView = AllSeriesView(allSeries: series)
 
         if let windowScene = scene as? UIWindowScene {
             let window = UIWindow(windowScene: windowScene)
