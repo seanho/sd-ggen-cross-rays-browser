@@ -60,8 +60,10 @@ struct ModelGraph {
             Series(title: "Mobile Suit Gundam SEED MSV", logoName: "logo_seed_msv"),
             Series(title: "Mobile Suit Gundam SEED Astray", logoName: "logo_seed_astray"),
             Series(title: "Mobile Suit Gundam SEED Astray R", logoName: "logo_seed_astray_r"),
+            Series(title: "Mobile Suit Gundam SEED Astray B", logoName: "logo_seed_astray_b"),
             Series(title: "Mobile Suit Gundam SEED X Astray", logoName: "logo_seed_x_astray"),
             Series(title: "Mobile Suit Gundam SEED Destiny", logoName: "logo_seed_destiny"),
+            Series(title: "Mobile Suit Gundam SEED Destiny MSV", logoName: "logo_seed_destiny_msv"),
             Series(title: "Mobile Suit Gundam SEED Destiny Astray", logoName: "logo_seed_d_astray"),
             Series(title: "Mobile Suit Gundam SEED C.E.73 Stargazer", logoName: "logo_seed_stargazer"),
             Series(title: "Mobile Suit Gundam SEED C.E.73 Delta Astray", logoName: "logo_seed_del_astray"),
@@ -78,6 +80,7 @@ struct ModelGraph {
             Series(title: "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer", logoName: "logo_00_gekijouban"),
             Series(title: "Mobile Suit Gundam Iron-Blooded Orphans", logoName: "logo_orphans"),
             Series(title: "Mobile Suit Gundam Iron-Blooded Orphans Gekko", logoName: "logo_orphans_msv"),
+            Series(title: "SD Gundam GX", logoName: "logo_sd_gx"),
             Series(title: "G Generation Series", logoName: "logo_gg")
         ]
     }
