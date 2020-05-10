@@ -11,6 +11,8 @@
 		785037E6245E9F3900495742 /* JSON+Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785037E5245E9F3900495742 /* JSON+Model.swift */; };
 		785037E8245E9F4A00495742 /* JSON+Loader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785037E7245E9F4A00495742 /* JSON+Loader.swift */; };
 		785037EC245EA4DD00495742 /* ModelGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785037EB245EA4DD00495742 /* ModelGraph.swift */; };
+		787673AA2467D9530042C2C3 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 787673A82467D9530042C2C3 /* Localizable.strings */; };
+		787673AC2467DD240042C2C3 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 787673AB2467DD240042C2C3 /* Settings.bundle */; };
 		78D78117244D559B001C59DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78116244D559B001C59DE /* AppDelegate.swift */; };
 		78D78119244D559B001C59DE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78118244D559B001C59DE /* SceneDelegate.swift */; };
 		78D7811B244D559B001C59DE /* UnitListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D7811A244D559B001C59DE /* UnitListView.swift */; };
@@ -42,7 +44,9 @@
 		785037E5245E9F3900495742 /* JSON+Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "JSON+Model.swift"; sourceTree = "<group>"; };
 		785037E7245E9F4A00495742 /* JSON+Loader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "JSON+Loader.swift"; sourceTree = "<group>"; };
 		785037EB245EA4DD00495742 /* ModelGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelGraph.swift; sourceTree = "<group>"; };
-		78D78113244D559B001C59DE /* CrossRaysUnitBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CrossRaysUnitBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		787673A92467D9530042C2C3 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		787673AB2467DD240042C2C3 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		78D78113244D559B001C59DE /* Cross Rays.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Cross Rays.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		78D78116244D559B001C59DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		78D78118244D559B001C59DE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		78D7811A244D559B001C59DE /* UnitListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitListView.swift; sourceTree = "<group>"; };
@@ -92,7 +96,7 @@
 		78D78114244D559B001C59DE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				78D78113244D559B001C59DE /* CrossRaysUnitBrowser.app */,
+				78D78113244D559B001C59DE /* Cross Rays.app */,
 				78D78129244D559D001C59DE /* CrossRaysUnitBrowserTests.xctest */,
 			);
 			name = Products;
@@ -106,9 +110,11 @@
 				78D7813A244D55DD001C59DE /* View */,
 				78D78116244D559B001C59DE /* AppDelegate.swift */,
 				78D78118244D559B001C59DE /* SceneDelegate.swift */,
+				787673A82467D9530042C2C3 /* Localizable.strings */,
 				78D7811C244D559D001C59DE /* Assets.xcassets */,
 				78D78121244D559D001C59DE /* LaunchScreen.storyboard */,
 				78D78124244D559D001C59DE /* Info.plist */,
+				787673AB2467DD240042C2C3 /* Settings.bundle */,
 				78D7811E244D559D001C59DE /* Preview Content */,
 			);
 			path = CrossRaysUnitBrowser;
@@ -181,7 +187,7 @@
 			);
 			name = CrossRaysUnitBrowser;
 			productName = CrossRaysUnitBrowser;
-			productReference = 78D78113244D559B001C59DE /* CrossRaysUnitBrowser.app */;
+			productReference = 78D78113244D559B001C59DE /* Cross Rays.app */;
 			productType = "com.apple.product-type.application";
 		};
 		78D78128244D559D001C59DE /* CrossRaysUnitBrowserTests */ = {
@@ -228,6 +234,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hant",
 			);
 			mainGroup = 78D7810A244D559B001C59DE;
 			productRefGroup = 78D78114244D559B001C59DE /* Products */;
@@ -246,10 +253,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				78D78123244D559D001C59DE /* LaunchScreen.storyboard in Resources */,
+				787673AA2467D9530042C2C3 /* Localizable.strings in Resources */,
 				78D7813E244D5622001C59DE /* units.json in Resources */,
 				78D78120244D559D001C59DE /* Preview Assets.xcassets in Resources */,
 				78D7811D244D559D001C59DE /* Assets.xcassets in Resources */,
 				78D7813D244D5622001C59DE /* developments.json in Resources */,
+				787673AC2467DD240042C2C3 /* Settings.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +310,14 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		787673A82467D9530042C2C3 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				787673A92467D9530042C2C3 /* zh-Hant */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 		78D78121244D559D001C59DE /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -440,7 +457,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = hk.guru.CrossRaysUnitBrowser;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Cross Rays";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -460,7 +477,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = hk.guru.CrossRaysUnitBrowser;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Cross Rays";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

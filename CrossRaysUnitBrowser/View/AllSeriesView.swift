@@ -27,7 +27,8 @@ struct SeriesRowView: View {
                 .resizable()
                 .scaledToFit()
                 .frame(width: 120, height: 80)
-            Text(series.title)
+            Text(LocalizedStringKey(series.title))
+                .lineLimit(2)
         }
     }
 }
