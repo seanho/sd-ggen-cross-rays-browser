@@ -38,5 +38,6 @@ struct AllSeriesView_Previews: PreviewProvider {
 
     static var previews: some View {
         AllSeriesView(allSeries: series)
+            .environment(\.colorScheme, .dark)
     }
 }

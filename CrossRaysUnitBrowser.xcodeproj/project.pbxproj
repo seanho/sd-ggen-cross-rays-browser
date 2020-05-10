@@ -13,6 +13,10 @@
 		785037EC245EA4DD00495742 /* ModelGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 785037EB245EA4DD00495742 /* ModelGraph.swift */; };
 		787673AA2467D9530042C2C3 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 787673A82467D9530042C2C3 /* Localizable.strings */; };
 		787673AC2467DD240042C2C3 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 787673AB2467DD240042C2C3 /* Settings.bundle */; };
+		787673AE246806040042C2C3 /* UnitStats.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787673AD246806040042C2C3 /* UnitStats.swift */; };
+		787673B024680F3F0042C2C3 /* SegmentedProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787673AF24680F3F0042C2C3 /* SegmentedProgressView.swift */; };
+		787673B224680F590042C2C3 /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787673B124680F590042C2C3 /* ProgressView.swift */; };
+		787673B5246812880042C2C3 /* UIColor+Adjustment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787673B4246812880042C2C3 /* UIColor+Adjustment.swift */; };
 		78D78117244D559B001C59DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78116244D559B001C59DE /* AppDelegate.swift */; };
 		78D78119244D559B001C59DE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78118244D559B001C59DE /* SceneDelegate.swift */; };
 		78D7811B244D559B001C59DE /* UnitListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D7811A244D559B001C59DE /* UnitListView.swift */; };
@@ -46,6 +50,10 @@
 		785037EB245EA4DD00495742 /* ModelGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelGraph.swift; sourceTree = "<group>"; };
 		787673A92467D9530042C2C3 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		787673AB2467DD240042C2C3 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		787673AD246806040042C2C3 /* UnitStats.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitStats.swift; sourceTree = "<group>"; };
+		787673AF24680F3F0042C2C3 /* SegmentedProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedProgressView.swift; sourceTree = "<group>"; };
+		787673B124680F590042C2C3 /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
+		787673B4246812880042C2C3 /* UIColor+Adjustment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Adjustment.swift"; sourceTree = "<group>"; };
 		78D78113244D559B001C59DE /* Cross Rays.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Cross Rays.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		78D78116244D559B001C59DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		78D78118244D559B001C59DE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +92,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		787673B3246812790042C2C3 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				787673B4246812880042C2C3 /* UIColor+Adjustment.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
 		78D7810A244D559B001C59DE = {
 			isa = PBXGroup;
 			children = (
@@ -105,6 +121,7 @@
 		78D78115244D559B001C59DE /* CrossRaysUnitBrowser */ = {
 			isa = PBXGroup;
 			children = (
+				787673B3246812790042C2C3 /* Extension */,
 				78D78138244D55B3001C59DE /* Data */,
 				78D78139244D55BC001C59DE /* Model */,
 				78D7813A244D55DD001C59DE /* View */,
@@ -155,6 +172,7 @@
 				78D78141244E8FAD001C59DE /* Development.swift */,
 				78D78147244EB9CD001C59DE /* Series.swift */,
 				78D7813F244D8ADD001C59DE /* Unit.swift */,
+				787673AD246806040042C2C3 /* UnitStats.swift */,
 				785037EB245EA4DD00495742 /* ModelGraph.swift */,
 			);
 			path = Model;
@@ -166,6 +184,8 @@
 				78D78150244EEEBE001C59DE /* AllSeriesView.swift */,
 				78D7811A244D559B001C59DE /* UnitListView.swift */,
 				78D78145244E97C6001C59DE /* UnitDetailView.swift */,
+				787673B124680F590042C2C3 /* ProgressView.swift */,
+				787673AF24680F3F0042C2C3 /* SegmentedProgressView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -276,7 +296,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				787673B024680F3F0042C2C3 /* SegmentedProgressView.swift in Sources */,
 				78D78117244D559B001C59DE /* AppDelegate.swift in Sources */,
+				787673B224680F590042C2C3 /* ProgressView.swift in Sources */,
 				785037E4245E9E6A00495742 /* JSON.swift in Sources */,
 				78D78151244EEEBE001C59DE /* AllSeriesView.swift in Sources */,
 				78D78140244D8ADD001C59DE /* Unit.swift in Sources */,
@@ -284,8 +306,10 @@
 				785037EC245EA4DD00495742 /* ModelGraph.swift in Sources */,
 				785037E6245E9F3900495742 /* JSON+Model.swift in Sources */,
 				78D78146244E97C6001C59DE /* UnitDetailView.swift in Sources */,
+				787673B5246812880042C2C3 /* UIColor+Adjustment.swift in Sources */,
 				785037E8245E9F4A00495742 /* JSON+Loader.swift in Sources */,
 				78D78119244D559B001C59DE /* SceneDelegate.swift in Sources */,
+				787673AE246806040042C2C3 /* UnitStats.swift in Sources */,
 				78D7811B244D559B001C59DE /* UnitListView.swift in Sources */,
 				78D78142244E8FAD001C59DE /* Development.swift in Sources */,
 			);

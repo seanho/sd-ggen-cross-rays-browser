@@ -37,6 +37,15 @@ struct ModelGraph {
             }
         }
 
+        UnitStats.maxEN = jsonUnits.compactMap { $0.en }.max() ?? 1
+        UnitStats.maxHP = jsonUnits.compactMap { $0.hp }.max() ?? 1
+        UnitStats.maxExp = jsonUnits.compactMap { $0.exp }.max() ?? 1
+        UnitStats.maxCost = jsonUnits.compactMap { $0.cost }.max() ?? 1
+        UnitStats.maxAttack = jsonUnits.compactMap { $0.attack }.max() ?? 1
+        UnitStats.maxDefence = jsonUnits.compactMap { $0.defence }.max() ?? 1
+        UnitStats.maxMobility = jsonUnits.compactMap { $0.mobility }.max() ?? 1
+        UnitStats.maxMovement = jsonUnits.compactMap { $0.movement }.max() ?? 8
+
         return series
     }
 

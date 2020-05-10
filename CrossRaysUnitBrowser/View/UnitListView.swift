@@ -10,7 +10,7 @@ struct UnitListView: View {
         List {
             ForEach(units) { unit in
                 UnitRowView(unit: unit)
-                    .listRowInsets(EdgeInsets(top: 0, leading: 0, bottom: 0, trailing: 12))
+                    .listRowInsets(EdgeInsets(top: 4, leading: 0, bottom: 4, trailing: 20))
                     .onTapGesture {
                         self.selectedUnit = unit
                     }
@@ -28,22 +28,36 @@ struct UnitRowView: View {
 
     var body: some View {
         HStack {
-            Image(unit.iconName)
-                .resizable()
-                .scaledToFit()
-                .frame(width: 96, height: 48)
-                .background(Color(UIColor.systemGray5))
+            UnitIconView(unit.iconName)
             Text(unit.name)
+                .foregroundColor(Color.white)
         }
     }
 }
 
+struct UnitIconView: View {
+    let iconName: String
+
+    init(_ iconName: String) {
+        self.iconName = iconName
+    }
+
+    var body: some View {
+        Image(iconName)
+            .resizable()
+            .scaledToFit()
+            .frame(width: 96, height: 48)
+            .background(Color(UIColor.systemGray5))
+    }
+}
+
 struct UnitListView_Previews: PreviewProvider {
-    static let units = JSON.loadUnits().prefix(5).map { Unit(series: Series(title: "", logoName: ""), json: $0) }
+    static let series = ModelGraph().build()
 
     static var previews: some View {
         NavigationView {
-            UnitListView(title: "Gundams", units: units)
+            UnitListView(title: "Gundams", units: series.first!.units)
         }
+        .environment(\.colorScheme, .dark)
     }
 }

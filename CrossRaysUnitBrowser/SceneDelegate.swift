@@ -7,6 +7,10 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
         UITableView.appearance().separatorColor = .clear
+        UINavigationBar.appearance().tintColor = UIColor.label
+        UINavigationBar.appearance().titleTextAttributes = [
+            .foregroundColor: UIColor.label
+        ]
 
         let series = ModelGraph().build()
         let contentView = AllSeriesView(allSeries: series)
