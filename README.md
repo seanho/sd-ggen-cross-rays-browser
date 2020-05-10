@@ -3,9 +3,9 @@ SD Gundam G Generation Cross Rays Unit Development Browser
 
 Just a hobby project to look up unit development in reverse. Also have some fun with SwiftUI.
 
-<img src="./screenshot1.png" width=240/>
-<img src="./screenshot2.png" width=240/>
-<img src="./screenshot3.png" width=240/>
+![All series](screenshot01.png)
+![Series units](screenshot02.png)
+![Unit details](screenshot03.png)
 
 ## Attribution
 
