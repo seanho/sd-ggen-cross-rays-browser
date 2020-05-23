@@ -471,7 +471,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_ASSET_PATHS = "\"CrossRaysUnitBrowser/Preview Content\"";
 				DEVELOPMENT_TEAM = HCA6MY6EMG;
 				ENABLE_PREVIEWS = YES;
@@ -482,6 +483,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = hk.guru.CrossRaysUnitBrowser;
 				PRODUCT_NAME = "Cross Rays";
+				PROVISIONING_PROFILE_SPECIFIER = "Cross Rays Development";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -491,7 +493,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_ASSET_PATHS = "\"CrossRaysUnitBrowser/Preview Content\"";
 				DEVELOPMENT_TEAM = HCA6MY6EMG;
 				ENABLE_PREVIEWS = YES;
@@ -502,6 +505,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = hk.guru.CrossRaysUnitBrowser;
 				PRODUCT_NAME = "Cross Rays";
+				PROVISIONING_PROFILE_SPECIFIER = "Cross Rays Development";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
