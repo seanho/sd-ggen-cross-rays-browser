@@ -2,7 +2,7 @@
 
 set -eo pipefail
 
-xcodebuild -workspace CrossRaysUnitBrowser.xcworkspace \
+xcodebuild -project CrossRaysUnitBrowser.xcodeproj \
             -scheme CrossRaysUnitBrowser \
             -sdk iphoneos \
             -configuration Release \
