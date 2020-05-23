@@ -31,6 +31,7 @@
 		78D78146244E97C6001C59DE /* UnitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78145244E97C6001C59DE /* UnitDetailView.swift */; };
 		78D78148244EB9CD001C59DE /* Series.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78147244EB9CD001C59DE /* Series.swift */; };
 		78D78151244EEEBE001C59DE /* AllSeriesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D78150244EEEBE001C59DE /* AllSeriesView.swift */; };
+		78F4603824796D0B0024448D /* ExportOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 78F4603724796D0B0024448D /* ExportOptions.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +73,7 @@
 		78D78145244E97C6001C59DE /* UnitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitDetailView.swift; sourceTree = "<group>"; };
 		78D78147244EB9CD001C59DE /* Series.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Series.swift; sourceTree = "<group>"; };
 		78D78150244EEEBE001C59DE /* AllSeriesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllSeriesView.swift; sourceTree = "<group>"; };
+		78F4603724796D0B0024448D /* ExportOptions.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ExportOptions.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +135,7 @@
 				78D78124244D559D001C59DE /* Info.plist */,
 				787673AB2467DD240042C2C3 /* Settings.bundle */,
 				78D7811E244D559D001C59DE /* Preview Content */,
+				78F4603724796D0B0024448D /* ExportOptions.plist */,
 			);
 			path = CrossRaysUnitBrowser;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				78D78123244D559D001C59DE /* LaunchScreen.storyboard in Resources */,
 				787673AA2467D9530042C2C3 /* Localizable.strings in Resources */,
 				78D7813E244D5622001C59DE /* units.json in Resources */,
+				78F4603824796D0B0024448D /* ExportOptions.plist in Resources */,
 				78D78120244D559D001C59DE /* Preview Assets.xcassets in Resources */,
 				78D7811D244D559D001C59DE /* Assets.xcassets in Resources */,
 				78D7813D244D5622001C59DE /* developments.json in Resources */,
