@@ -1,4 +1,5 @@
 #!/bin/sh
+
 set -eo pipefail
 
 gpg --quiet --batch --yes --decrypt --passphrase="$PROFILE_PASSPHRASE" --output ./.github/secrets/Cross_Rays_Distribution.mobileprovision ./.github/secrets/Cross_Rays_Distribution.mobileprovision.gpg
