@@ -21,6 +21,8 @@ jobs:
         run: ./.github/scripts/decrypt_secrets.sh
 
       - name: Update bundle version
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number }}
         run: ./.github/scripts/update_bundle_version.sh
 
       - name: Archiving project
