@@ -10,19 +10,27 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+
       - name: Install gpg
         run: brew install gnupg
+
       - name: Setup provisioning profile
         env:
           CERT_PASSPHRASE: ${{ secrets.CERT_PASSPHRASE }}
           PROFILE_PASSPHRASE: ${{ secrets.PROFILE_PASSPHRASE }}
         run: ./.github/scripts/decrypt_secrets.sh
-      - name: Archiving project
+
+      - name: Update bundle version
         env:
           PR_NUMBER: $(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")
+        run: ./.github/scripts/update_bundle_version.sh
+
+      - name: Archiving project
         run: ./.github/scripts/archive_app.sh
+
       - name: Exporting .ipa
         run: ./.github/scripts/export_ipa.sh
+
       - name: Publishing app
         if: success()
         env:
