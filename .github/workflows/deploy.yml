@@ -1,6 +1,6 @@
 name: Deploying
 on:
-  pull_request:
+  push:
     branches:
       - master
 jobs:
@@ -21,10 +21,7 @@ jobs:
       #   run: ./.github/scripts/decrypt_secrets.sh
 
       - name: Echo
-        run: echo ${{ github.event_name }}
-
-      - name: Echo 2
-        run: echo ${{ github.event.pull_request.number }}
+        run: echo $(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")
 
       # - name: Update bundle version
       #   env:
